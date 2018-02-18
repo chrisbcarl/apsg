@@ -86,4 +86,9 @@ def func(principal, start, end, low, high):
     print('capital_in_commodities', capital_in_commodities)
 
 if __name__ == '__main__':
-    func(1000, 0, 1000000, 100, 200)
+    principal = 1000
+    start = 0
+    end = 100
+    low = 100
+    high = 200
+    func(principal, start, end, low, high)
