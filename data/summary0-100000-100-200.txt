@@ -1,0 +1,2 @@
+principal,start,end,low,high,sample_rate,trading_threshold,capital_in_bank,capital_in_commodities
+10000.0,0,100000,100,200,60,0.03,4834.552214873006,5165.4477851269985

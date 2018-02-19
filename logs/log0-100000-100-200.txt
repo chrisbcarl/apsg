@@ -1,0 +1,5001 @@
+buy	price == $149.04
+	prev == $166.46
+	diff == -10.46%		below 3.00%
+hold	price == $146.09
+	prev == $149.04
+	diff == -1.98%		below 3.00%
+hold	price == $148.77
+	prev == $146.09
+	diff == 1.83%		below 3.00%
+hold	price == $147.17
+	prev == $148.77
+	diff == -1.08%		below 3.00%
+hold	price == $143.44
+	prev == $147.17
+	diff == -2.53%		below 3.00%
+hold	price == $142.44
+	prev == $143.44
+	diff == -0.70%		below 3.00%
+hold	price == $142.61
+	prev == $142.44
+	diff == 0.12%		below 3.00%
+buy	price == $137.42
+	prev == $142.61
+	diff == -3.64%		below 3.00%
+hold	price == $137.98
+	prev == $137.42
+	diff == 0.40%		below 3.00%
+hold	price == $137.82
+	prev == $137.98
+	diff == -0.12%		below 3.00%
+hold	price == $140.32
+	prev == $137.82
+	diff == 1.82%		below 3.00%
+buy	price == $133.85
+	prev == $140.32
+	diff == -4.61%		below 3.00%
+sell	price == $139.03
+	prev == $133.85
+	diff == 3.87%		above 3.00%
+hold	price == $142.77
+	prev == $139.03
+	diff == 2.70%		below 3.00%
+hold	price == $143.33
+	prev == $142.77
+	diff == 0.39%		below 3.00%
+hold	price == $140.55
+	prev == $143.33
+	diff == -1.94%		below 3.00%
+hold	price == $142.05
+	prev == $140.55
+	diff == 1.07%		below 3.00%
+hold	price == $141.14
+	prev == $142.05
+	diff == -0.64%		below 3.00%
+hold	price == $144.79
+	prev == $141.14
+	diff == 2.58%		below 3.00%
+hold	price == $142.93
+	prev == $144.79
+	diff == -1.29%		below 3.00%
+hold	price == $141.33
+	prev == $142.93
+	diff == -1.12%		below 3.00%
+hold	price == $137.78
+	prev == $141.33
+	diff == -2.51%		below 3.00%
+buy	price == $130.72
+	prev == $137.78
+	diff == -5.12%		below 3.00%
+hold	price == $130.20
+	prev == $130.72
+	diff == -0.40%		below 3.00%
+hold	price == $127.70
+	prev == $130.20
+	diff == -1.92%		below 3.00%
+hold	price == $126.74
+	prev == $127.70
+	diff == -0.76%		below 3.00%
+hold	price == $125.15
+	prev == $126.74
+	diff == -1.25%		below 3.00%
+buy	price == $115.85
+	prev == $125.15
+	diff == -7.43%		below 3.00%
+hold	price == $118.59
+	prev == $115.85
+	diff == 2.36%		below 3.00%
+sell	price == $123.04
+	prev == $118.59
+	diff == 3.76%		above 3.00%
+hold	price == $123.75
+	prev == $123.04
+	diff == 0.57%		below 3.00%
+hold	price == $127.07
+	prev == $123.75
+	diff == 2.69%		below 3.00%
+hold	price == $127.76
+	prev == $127.07
+	diff == 0.54%		below 3.00%
+hold	price == $129.69
+	prev == $127.76
+	diff == 1.51%		below 3.00%
+hold	price == $133.35
+	prev == $129.69
+	diff == 2.83%		below 3.00%
+hold	price == $135.21
+	prev == $133.35
+	diff == 1.39%		below 3.00%
+hold	price == $134.66
+	prev == $135.21
+	diff == -0.41%		below 3.00%
+hold	price == $137.70
+	prev == $134.66
+	diff == 2.25%		below 3.00%
+hold	price == $136.42
+	prev == $137.70
+	diff == -0.93%		below 3.00%
+hold	price == $138.35
+	prev == $136.42
+	diff == 1.42%		below 3.00%
+hold	price == $137.86
+	prev == $138.35
+	diff == -0.36%		below 3.00%
+hold	price == $141.79
+	prev == $137.86
+	diff == 2.85%		below 3.00%
+sell	price == $147.96
+	prev == $141.79
+	diff == 4.35%		above 3.00%
+sell	price == $154.84
+	prev == $147.96
+	diff == 4.65%		above 3.00%
+hold	price == $155.85
+	prev == $154.84
+	diff == 0.65%		below 3.00%
+hold	price == $156.40
+	prev == $155.85
+	diff == 0.35%		below 3.00%
+hold	price == $157.87
+	prev == $156.40
+	diff == 0.94%		below 3.00%
+hold	price == $153.74
+	prev == $157.87
+	diff == -2.62%		below 3.00%
+hold	price == $157.54
+	prev == $153.74
+	diff == 2.47%		below 3.00%
+sell	price == $166.02
+	prev == $157.54
+	diff == 5.38%		above 3.00%
+hold	price == $167.38
+	prev == $166.02
+	diff == 0.82%		below 3.00%
+sell	price == $173.31
+	prev == $167.38
+	diff == 3.54%		above 3.00%
+sell	price == $180.56
+	prev == $173.31
+	diff == 4.19%		above 3.00%
+hold	price == $181.73
+	prev == $180.56
+	diff == 0.65%		below 3.00%
+hold	price == $177.62
+	prev == $181.73
+	diff == -2.26%		below 3.00%
+sell	price == $183.04
+	prev == $177.62
+	diff == 3.05%		above 3.00%
+hold	price == $187.76
+	prev == $183.04
+	diff == 2.58%		below 3.00%
+hold	price == $187.56
+	prev == $187.76
+	diff == -0.11%		below 3.00%
+hold	price == $189.13
+	prev == $187.56
+	diff == 0.84%		below 3.00%
+hold	price == $186.84
+	prev == $189.13
+	diff == -1.21%		below 3.00%
+hold	price == $183.33
+	prev == $186.84
+	diff == -1.88%		below 3.00%
+hold	price == $180.29
+	prev == $183.33
+	diff == -1.65%		below 3.00%
+hold	price == $183.61
+	prev == $180.29
+	diff == 1.84%		below 3.00%
+hold	price == $178.53
+	prev == $183.61
+	diff == -2.77%		below 3.00%
+hold	price == $177.74
+	prev == $178.53
+	diff == -0.44%		below 3.00%
+hold	price == $177.73
+	prev == $177.74
+	diff == -0.01%		below 3.00%
+buy	price == $172.08
+	prev == $177.73
+	diff == -3.18%		below 3.00%
+hold	price == $172.98
+	prev == $172.08
+	diff == 0.52%		below 3.00%
+hold	price == $172.85
+	prev == $172.98
+	diff == -0.08%		below 3.00%
+hold	price == $169.73
+	prev == $172.85
+	diff == -1.81%		below 3.00%
+hold	price == $165.40
+	prev == $169.73
+	diff == -2.55%		below 3.00%
+hold	price == $166.33
+	prev == $165.40
+	diff == 0.56%		below 3.00%
+hold	price == $165.85
+	prev == $166.33
+	diff == -0.29%		below 3.00%
+buy	price == $160.57
+	prev == $165.85
+	diff == -3.18%		below 3.00%
+hold	price == $158.26
+	prev == $160.57
+	diff == -1.44%		below 3.00%
+hold	price == $156.14
+	prev == $158.26
+	diff == -1.34%		below 3.00%
+hold	price == $153.86
+	prev == $156.14
+	diff == -1.47%		below 3.00%
+hold	price == $151.40
+	prev == $153.86
+	diff == -1.59%		below 3.00%
+hold	price == $154.08
+	prev == $151.40
+	diff == 1.77%		below 3.00%
+hold	price == $153.19
+	prev == $154.08
+	diff == -0.57%		below 3.00%
+buy	price == $144.14
+	prev == $153.19
+	diff == -5.91%		below 3.00%
+hold	price == $139.96
+	prev == $144.14
+	diff == -2.90%		below 3.00%
+hold	price == $138.51
+	prev == $139.96
+	diff == -1.03%		below 3.00%
+hold	price == $140.86
+	prev == $138.51
+	diff == 1.69%		below 3.00%
+hold	price == $140.48
+	prev == $140.86
+	diff == -0.27%		below 3.00%
+hold	price == $142.95
+	prev == $140.48
+	diff == 1.76%		below 3.00%
+buy	price == $136.32
+	prev == $142.95
+	diff == -4.64%		below 3.00%
+sell	price == $140.66
+	prev == $136.32
+	diff == 3.19%		above 3.00%
+hold	price == $137.66
+	prev == $140.66
+	diff == -2.13%		below 3.00%
+buy	price == $133.46
+	prev == $137.66
+	diff == -3.05%		below 3.00%
+hold	price == $134.57
+	prev == $133.46
+	diff == 0.83%		below 3.00%
+sell	price == $138.95
+	prev == $134.57
+	diff == 3.25%		above 3.00%
+sell	price == $143.34
+	prev == $138.95
+	diff == 3.16%		above 3.00%
+hold	price == $145.85
+	prev == $143.34
+	diff == 1.75%		below 3.00%
+sell	price == $150.24
+	prev == $145.85
+	diff == 3.01%		above 3.00%
+buy	price == $144.45
+	prev == $150.24
+	diff == -3.85%		below 3.00%
+hold	price == $145.15
+	prev == $144.45
+	diff == 0.48%		below 3.00%
+hold	price == $147.72
+	prev == $145.15
+	diff == 1.77%		below 3.00%
+hold	price == $148.17
+	prev == $147.72
+	diff == 0.31%		below 3.00%
+hold	price == $146.78
+	prev == $148.17
+	diff == -0.94%		below 3.00%
+hold	price == $146.97
+	prev == $146.78
+	diff == 0.13%		below 3.00%
+buy	price == $140.67
+	prev == $146.97
+	diff == -4.29%		below 3.00%
+buy	price == $135.38
+	prev == $140.67
+	diff == -3.76%		below 3.00%
+hold	price == $135.05
+	prev == $135.38
+	diff == -0.24%		below 3.00%
+sell	price == $142.00
+	prev == $135.05
+	diff == 5.14%		above 3.00%
+hold	price == $140.48
+	prev == $142.00
+	diff == -1.07%		below 3.00%
+sell	price == $147.00
+	prev == $140.48
+	diff == 4.64%		above 3.00%
+hold	price == $149.41
+	prev == $147.00
+	diff == 1.64%		below 3.00%
+hold	price == $151.04
+	prev == $149.41
+	diff == 1.09%		below 3.00%
+hold	price == $147.10
+	prev == $151.04
+	diff == -2.60%		below 3.00%
+buy	price == $142.61
+	prev == $147.10
+	diff == -3.06%		below 3.00%
+hold	price == $139.27
+	prev == $142.61
+	diff == -2.34%		below 3.00%
+sell	price == $145.28
+	prev == $139.27
+	diff == 4.32%		above 3.00%
+hold	price == $142.78
+	prev == $145.28
+	diff == -1.72%		below 3.00%
+hold	price == $141.69
+	prev == $142.78
+	diff == -0.76%		below 3.00%
+buy	price == $135.51
+	prev == $141.69
+	diff == -4.36%		below 3.00%
+hold	price == $138.00
+	prev == $135.51
+	diff == 1.83%		below 3.00%
+hold	price == $134.54
+	prev == $138.00
+	diff == -2.50%		below 3.00%
+hold	price == $132.36
+	prev == $134.54
+	diff == -1.62%		below 3.00%
+hold	price == $134.73
+	prev == $132.36
+	diff == 1.79%		below 3.00%
+hold	price == $135.19
+	prev == $134.73
+	diff == 0.34%		below 3.00%
+buy	price == $129.72
+	prev == $135.19
+	diff == -4.05%		below 3.00%
+hold	price == $129.42
+	prev == $129.72
+	diff == -0.23%		below 3.00%
+hold	price == $129.08
+	prev == $129.42
+	diff == -0.27%		below 3.00%
+sell	price == $134.41
+	prev == $129.08
+	diff == 4.13%		above 3.00%
+hold	price == $135.62
+	prev == $134.41
+	diff == 0.90%		below 3.00%
+hold	price == $138.03
+	prev == $135.62
+	diff == 1.77%		below 3.00%
+sell	price == $145.57
+	prev == $138.03
+	diff == 5.46%		above 3.00%
+hold	price == $148.20
+	prev == $145.57
+	diff == 1.80%		below 3.00%
+hold	price == $149.50
+	prev == $148.20
+	diff == 0.88%		below 3.00%
+sell	price == $154.31
+	prev == $149.50
+	diff == 3.22%		above 3.00%
+hold	price == $157.26
+	prev == $154.31
+	diff == 1.91%		below 3.00%
+buy	price == $151.74
+	prev == $157.26
+	diff == -3.51%		below 3.00%
+hold	price == $153.35
+	prev == $151.74
+	diff == 1.06%		below 3.00%
+hold	price == $152.70
+	prev == $153.35
+	diff == -0.43%		below 3.00%
+hold	price == $155.11
+	prev == $152.70
+	diff == 1.58%		below 3.00%
+buy	price == $146.21
+	prev == $155.11
+	diff == -5.74%		below 3.00%
+hold	price == $148.83
+	prev == $146.21
+	diff == 1.79%		below 3.00%
+hold	price == $144.44
+	prev == $148.83
+	diff == -2.95%		below 3.00%
+sell	price == $149.45
+	prev == $144.44
+	diff == 3.47%		above 3.00%
+buy	price == $144.22
+	prev == $149.45
+	diff == -3.50%		below 3.00%
+sell	price == $149.76
+	prev == $144.22
+	diff == 3.84%		above 3.00%
+hold	price == $148.36
+	prev == $149.76
+	diff == -0.93%		below 3.00%
+hold	price == $152.22
+	prev == $148.36
+	diff == 2.60%		below 3.00%
+hold	price == $151.25
+	prev == $152.22
+	diff == -0.64%		below 3.00%
+buy	price == $144.55
+	prev == $151.25
+	diff == -4.43%		below 3.00%
+sell	price == $149.44
+	prev == $144.55
+	diff == 3.38%		above 3.00%
+hold	price == $151.29
+	prev == $149.44
+	diff == 1.24%		below 3.00%
+hold	price == $150.10
+	prev == $151.29
+	diff == -0.79%		below 3.00%
+hold	price == $147.13
+	prev == $150.10
+	diff == -1.98%		below 3.00%
+hold	price == $144.37
+	prev == $147.13
+	diff == -1.87%		below 3.00%
+hold	price == $145.29
+	prev == $144.37
+	diff == 0.63%		below 3.00%
+hold	price == $145.45
+	prev == $145.29
+	diff == 0.11%		below 3.00%
+hold	price == $144.01
+	prev == $145.45
+	diff == -0.99%		below 3.00%
+sell	price == $149.87
+	prev == $144.01
+	diff == 4.07%		above 3.00%
+hold	price == $146.96
+	prev == $149.87
+	diff == -1.94%		below 3.00%
+hold	price == $146.77
+	prev == $146.96
+	diff == -0.13%		below 3.00%
+hold	price == $143.99
+	prev == $146.77
+	diff == -1.90%		below 3.00%
+hold	price == $147.18
+	prev == $143.99
+	diff == 2.22%		below 3.00%
+hold	price == $144.69
+	prev == $147.18
+	diff == -1.69%		below 3.00%
+buy	price == $133.85
+	prev == $144.69
+	diff == -7.50%		below 3.00%
+hold	price == $134.76
+	prev == $133.85
+	diff == 0.68%		below 3.00%
+hold	price == $134.40
+	prev == $134.76
+	diff == -0.27%		below 3.00%
+buy	price == $130.34
+	prev == $134.40
+	diff == -3.02%		below 3.00%
+hold	price == $133.24
+	prev == $130.34
+	diff == 2.22%		below 3.00%
+sell	price == $138.01
+	prev == $133.24
+	diff == 3.58%		above 3.00%
+hold	price == $137.38
+	prev == $138.01
+	diff == -0.46%		below 3.00%
+hold	price == $137.03
+	prev == $137.38
+	diff == -0.25%		below 3.00%
+hold	price == $135.80
+	prev == $137.03
+	diff == -0.90%		below 3.00%
+hold	price == $137.88
+	prev == $135.80
+	diff == 1.54%		below 3.00%
+sell	price == $145.97
+	prev == $137.88
+	diff == 5.86%		above 3.00%
+hold	price == $149.65
+	prev == $145.97
+	diff == 2.52%		below 3.00%
+hold	price == $145.89
+	prev == $149.65
+	diff == -2.51%		below 3.00%
+hold	price == $149.00
+	prev == $145.89
+	diff == 2.13%		below 3.00%
+hold	price == $149.07
+	prev == $149.00
+	diff == 0.05%		below 3.00%
+hold	price == $147.73
+	prev == $149.07
+	diff == -0.90%		below 3.00%
+hold	price == $144.49
+	prev == $147.73
+	diff == -2.19%		below 3.00%
+hold	price == $144.97
+	prev == $144.49
+	diff == 0.33%		below 3.00%
+hold	price == $149.04
+	prev == $144.97
+	diff == 2.80%		below 3.00%
+sell	price == $157.90
+	prev == $149.04
+	diff == 5.95%		above 3.00%
+buy	price == $149.24
+	prev == $157.90
+	diff == -5.48%		below 3.00%
+sell	price == $154.74
+	prev == $149.24
+	diff == 3.68%		above 3.00%
+sell	price == $161.01
+	prev == $154.74
+	diff == 4.06%		above 3.00%
+hold	price == $158.32
+	prev == $161.01
+	diff == -1.67%		below 3.00%
+buy	price == $150.82
+	prev == $158.32
+	diff == -4.74%		below 3.00%
+hold	price == $146.88
+	prev == $150.82
+	diff == -2.61%		below 3.00%
+hold	price == $148.19
+	prev == $146.88
+	diff == 0.89%		below 3.00%
+hold	price == $149.65
+	prev == $148.19
+	diff == 0.99%		below 3.00%
+buy	price == $144.76
+	prev == $149.65
+	diff == -3.27%		below 3.00%
+hold	price == $147.26
+	prev == $144.76
+	diff == 1.73%		below 3.00%
+hold	price == $144.25
+	prev == $147.26
+	diff == -2.04%		below 3.00%
+buy	price == $135.80
+	prev == $144.25
+	diff == -5.85%		below 3.00%
+hold	price == $133.18
+	prev == $135.80
+	diff == -1.93%		below 3.00%
+hold	price == $131.64
+	prev == $133.18
+	diff == -1.16%		below 3.00%
+hold	price == $132.73
+	prev == $131.64
+	diff == 0.83%		below 3.00%
+hold	price == $131.92
+	prev == $132.73
+	diff == -0.61%		below 3.00%
+buy	price == $125.19
+	prev == $131.92
+	diff == -5.10%		below 3.00%
+hold	price == $124.61
+	prev == $125.19
+	diff == -0.47%		below 3.00%
+sell	price == $129.67
+	prev == $124.61
+	diff == 4.06%		above 3.00%
+hold	price == $129.91
+	prev == $129.67
+	diff == 0.19%		below 3.00%
+hold	price == $130.49
+	prev == $129.91
+	diff == 0.45%		below 3.00%
+hold	price == $130.17
+	prev == $130.49
+	diff == -0.25%		below 3.00%
+buy	price == $122.53
+	prev == $130.17
+	diff == -5.87%		below 3.00%
+hold	price == $124.85
+	prev == $122.53
+	diff == 1.89%		below 3.00%
+hold	price == $123.61
+	prev == $124.85
+	diff == -1.00%		below 3.00%
+hold	price == $121.34
+	prev == $123.61
+	diff == -1.84%		below 3.00%
+hold	price == $121.69
+	prev == $121.34
+	diff == 0.29%		below 3.00%
+hold	price == $120.44
+	prev == $121.69
+	diff == -1.03%		below 3.00%
+hold	price == $121.26
+	prev == $120.44
+	diff == 0.68%		below 3.00%
+hold	price == $120.81
+	prev == $121.26
+	diff == -0.37%		below 3.00%
+sell	price == $126.36
+	prev == $120.81
+	diff == 4.59%		above 3.00%
+hold	price == $126.72
+	prev == $126.36
+	diff == 0.29%		below 3.00%
+buy	price == $120.76
+	prev == $126.72
+	diff == -4.71%		below 3.00%
+hold	price == $124.25
+	prev == $120.76
+	diff == 2.89%		below 3.00%
+sell	price == $127.99
+	prev == $124.25
+	diff == 3.01%		above 3.00%
+buy	price == $122.13
+	prev == $127.99
+	diff == -4.58%		below 3.00%
+buy	price == $111.74
+	prev == $122.13
+	diff == -8.51%		below 3.00%
+hold	price == $114.26
+	prev == $111.74
+	diff == 2.25%		below 3.00%
+buy	price == $110.55
+	prev == $114.26
+	diff == -3.25%		below 3.00%
+hold	price == $113.06
+	prev == $110.55
+	diff == 2.27%		below 3.00%
+hold	price == $112.33
+	prev == $113.06
+	diff == -0.64%		below 3.00%
+hold	price == $114.22
+	prev == $112.33
+	diff == 1.69%		below 3.00%
+hold	price == $116.36
+	prev == $114.22
+	diff == 1.88%		below 3.00%
+sell	price == $120.37
+	prev == $116.36
+	diff == 3.45%		above 3.00%
+hold	price == $117.79
+	prev == $120.37
+	diff == -2.15%		below 3.00%
+hold	price == $115.57
+	prev == $117.79
+	diff == -1.88%		below 3.00%
+hold	price == $114.79
+	prev == $115.57
+	diff == -0.67%		below 3.00%
+hold	price == $113.66
+	prev == $114.79
+	diff == -0.99%		below 3.00%
+hold	price == $112.80
+	prev == $113.66
+	diff == -0.76%		below 3.00%
+hold	price == $114.84
+	prev == $112.80
+	diff == 1.81%		below 3.00%
+buy	price == $110.55
+	prev == $114.84
+	diff == -3.73%		below 3.00%
+hold	price == $107.92
+	prev == $110.55
+	diff == -2.38%		below 3.00%
+hold	price == $105.04
+	prev == $107.92
+	diff == -2.66%		below 3.00%
+buy	price == $100.04
+	prev == $105.04
+	diff == -4.76%		below 3.00%
+buy	price == $93.69
+	prev == $100.04
+	diff == -6.35%		below 3.00%
+hold	price == $93.72
+	prev == $93.69
+	diff == 0.04%		below 3.00%
+sell	price == $96.58
+	prev == $93.72
+	diff == 3.05%		above 3.00%
+hold	price == $96.38
+	prev == $96.58
+	diff == -0.20%		below 3.00%
+hold	price == $98.00
+	prev == $96.38
+	diff == 1.67%		below 3.00%
+sell	price == $102.19
+	prev == $98.00
+	diff == 4.28%		above 3.00%
+buy	price == $95.59
+	prev == $102.19
+	diff == -6.46%		below 3.00%
+buy	price == $89.79
+	prev == $95.59
+	diff == -6.07%		below 3.00%
+hold	price == $88.81
+	prev == $89.79
+	diff == -1.09%		below 3.00%
+hold	price == $86.81
+	prev == $88.81
+	diff == -2.25%		below 3.00%
+hold	price == $85.44
+	prev == $86.81
+	diff == -1.57%		below 3.00%
+buy	price == $82.24
+	prev == $85.44
+	diff == -3.75%		below 3.00%
+hold	price == $81.61
+	prev == $82.24
+	diff == -0.76%		below 3.00%
+buy	price == $78.08
+	prev == $81.61
+	diff == -4.33%		below 3.00%
+hold	price == $77.95
+	prev == $78.08
+	diff == -0.16%		below 3.00%
+buy	price == $69.69
+	prev == $77.95
+	diff == -10.59%		below 3.00%
+hold	price == $70.50
+	prev == $69.69
+	diff == 1.15%		below 3.00%
+hold	price == $70.60
+	prev == $70.50
+	diff == 0.15%		below 3.00%
+hold	price == $70.40
+	prev == $70.60
+	diff == -0.29%		below 3.00%
+hold	price == $69.16
+	prev == $70.40
+	diff == -1.76%		below 3.00%
+buy	price == $65.89
+	prev == $69.16
+	diff == -4.73%		below 3.00%
+buy	price == $63.55
+	prev == $65.89
+	diff == -3.54%		below 3.00%
+hold	price == $64.54
+	prev == $63.55
+	diff == 1.55%		below 3.00%
+buy	price == $61.75
+	prev == $64.54
+	diff == -4.32%		below 3.00%
+hold	price == $62.83
+	prev == $61.75
+	diff == 1.74%		below 3.00%
+buy	price == $60.57
+	prev == $62.83
+	diff == -3.60%		below 3.00%
+hold	price == $61.28
+	prev == $60.57
+	diff == 1.18%		below 3.00%
+hold	price == $61.18
+	prev == $61.28
+	diff == -0.16%		below 3.00%
+hold	price == $61.35
+	prev == $61.18
+	diff == 0.27%		below 3.00%
+hold	price == $62.67
+	prev == $61.35
+	diff == 2.14%		below 3.00%
+hold	price == $61.16
+	prev == $62.67
+	diff == -2.41%		below 3.00%
+buy	price == $55.33
+	prev == $61.16
+	diff == -9.53%		below 3.00%
+hold	price == $55.99
+	prev == $55.33
+	diff == 1.20%		below 3.00%
+hold	price == $55.76
+	prev == $55.99
+	diff == -0.42%		below 3.00%
+sell	price == $59.10
+	prev == $55.76
+	diff == 5.99%		above 3.00%
+hold	price == $58.51
+	prev == $59.10
+	diff == -0.99%		below 3.00%
+sell	price == $70.77
+	prev == $58.51
+	diff == 20.96%		above 3.00%
+hold	price == $72.05
+	prev == $70.77
+	diff == 1.80%		below 3.00%
+buy	price == $63.99
+	prev == $72.05
+	diff == -11.19%		below 3.00%
+buy	price == $60.23
+	prev == $63.99
+	diff == -5.87%		below 3.00%
+buy	price == $57.78
+	prev == $60.23
+	diff == -4.06%		below 3.00%
+hold	price == $59.22
+	prev == $57.78
+	diff == 2.48%		below 3.00%
+sell	price == $64.14
+	prev == $59.22
+	diff == 8.31%		above 3.00%
+buy	price == $59.06
+	prev == $64.14
+	diff == -7.92%		below 3.00%
+sell	price == $62.20
+	prev == $59.06
+	diff == 5.32%		above 3.00%
+hold	price == $61.52
+	prev == $62.20
+	diff == -1.09%		below 3.00%
+sell	price == $68.44
+	prev == $61.52
+	diff == 11.23%		above 3.00%
+hold	price == $69.75
+	prev == $68.44
+	diff == 1.92%		below 3.00%
+hold	price == $71.47
+	prev == $69.75
+	diff == 2.47%		below 3.00%
+buy	price == $67.24
+	prev == $71.47
+	diff == -5.91%		below 3.00%
+hold	price == $66.99
+	prev == $67.24
+	diff == -0.38%		below 3.00%
+buy	price == $61.57
+	prev == $66.99
+	diff == -8.08%		below 3.00%
+sell	price == $65.39
+	prev == $61.57
+	diff == 6.20%		above 3.00%
+buy	price == $60.76
+	prev == $65.39
+	diff == -7.08%		below 3.00%
+sell	price == $63.46
+	prev == $60.76
+	diff == 4.45%		above 3.00%
+sell	price == $65.81
+	prev == $63.46
+	diff == 3.70%		above 3.00%
+hold	price == $67.52
+	prev == $65.81
+	diff == 2.60%		below 3.00%
+sell	price == $70.40
+	prev == $67.52
+	diff == 4.27%		above 3.00%
+buy	price == $66.14
+	prev == $70.40
+	diff == -6.05%		below 3.00%
+hold	price == $67.02
+	prev == $66.14
+	diff == 1.33%		below 3.00%
+hold	price == $65.26
+	prev == $67.02
+	diff == -2.62%		below 3.00%
+buy	price == $62.70
+	prev == $65.26
+	diff == -3.93%		below 3.00%
+buy	price == $59.79
+	prev == $62.70
+	diff == -4.64%		below 3.00%
+hold	price == $58.08
+	prev == $59.79
+	diff == -2.86%		below 3.00%
+hold	price == $57.03
+	prev == $58.08
+	diff == -1.81%		below 3.00%
+sell	price == $59.02
+	prev == $57.03
+	diff == 3.49%		above 3.00%
+buy	price == $56.66
+	prev == $59.02
+	diff == -4.01%		below 3.00%
+hold	price == $57.43
+	prev == $56.66
+	diff == 1.37%		below 3.00%
+buy	price == $53.46
+	prev == $57.43
+	diff == -6.92%		below 3.00%
+hold	price == $55.04
+	prev == $53.46
+	diff == 2.96%		below 3.00%
+sell	price == $57.60
+	prev == $55.04
+	diff == 4.65%		above 3.00%
+hold	price == $58.13
+	prev == $57.60
+	diff == 0.92%		below 3.00%
+sell	price == $61.32
+	prev == $58.13
+	diff == 5.49%		above 3.00%
+sell	price == $64.35
+	prev == $61.32
+	diff == 4.94%		above 3.00%
+hold	price == $64.65
+	prev == $64.35
+	diff == 0.47%		below 3.00%
+hold	price == $64.84
+	prev == $64.65
+	diff == 0.29%		below 3.00%
+sell	price == $73.09
+	prev == $64.84
+	diff == 12.72%		above 3.00%
+hold	price == $73.12
+	prev == $73.09
+	diff == 0.05%		below 3.00%
+buy	price == $70.74
+	prev == $73.12
+	diff == -3.26%		below 3.00%
+hold	price == $69.38
+	prev == $70.74
+	diff == -1.93%		below 3.00%
+buy	price == $64.39
+	prev == $69.38
+	diff == -7.19%		below 3.00%
+hold	price == $65.22
+	prev == $64.39
+	diff == 1.29%		below 3.00%
+hold	price == $64.13
+	prev == $65.22
+	diff == -1.67%		below 3.00%
+buy	price == $60.67
+	prev == $64.13
+	diff == -5.39%		below 3.00%
+hold	price == $60.13
+	prev == $60.67
+	diff == -0.90%		below 3.00%
+buy	price == $55.86
+	prev == $60.13
+	diff == -7.10%		below 3.00%
+hold	price == $56.10
+	prev == $55.86
+	diff == 0.44%		below 3.00%
+sell	price == $59.75
+	prev == $56.10
+	diff == 6.50%		above 3.00%
+sell	price == $63.51
+	prev == $59.75
+	diff == 6.30%		above 3.00%
+sell	price == $66.14
+	prev == $63.51
+	diff == 4.14%		above 3.00%
+sell	price == $68.44
+	prev == $66.14
+	diff == 3.47%		above 3.00%
+sell	price == $70.93
+	prev == $68.44
+	diff == 3.64%		above 3.00%
+hold	price == $71.66
+	prev == $70.93
+	diff == 1.03%		below 3.00%
+hold	price == $70.68
+	prev == $71.66
+	diff == -1.36%		below 3.00%
+buy	price == $67.80
+	prev == $70.68
+	diff == -4.08%		below 3.00%
+sell	price == $73.14
+	prev == $67.80
+	diff == 7.88%		above 3.00%
+sell	price == $80.77
+	prev == $73.14
+	diff == 10.44%		above 3.00%
+sell	price == $88.59
+	prev == $80.77
+	diff == 9.68%		above 3.00%
+hold	price == $89.84
+	prev == $88.59
+	diff == 1.41%		below 3.00%
+buy	price == $86.70
+	prev == $89.84
+	diff == -3.50%		below 3.00%
+hold	price == $87.73
+	prev == $86.70
+	diff == 1.19%		below 3.00%
+hold	price == $85.82
+	prev == $87.73
+	diff == -2.18%		below 3.00%
+sell	price == $88.41
+	prev == $85.82
+	diff == 3.02%		above 3.00%
+hold	price == $89.45
+	prev == $88.41
+	diff == 1.18%		below 3.00%
+hold	price == $91.84
+	prev == $89.45
+	diff == 2.68%		below 3.00%
+hold	price == $94.21
+	prev == $91.84
+	diff == 2.58%		below 3.00%
+buy	price == $88.10
+	prev == $94.21
+	diff == -6.48%		below 3.00%
+buy	price == $85.30
+	prev == $88.10
+	diff == -3.18%		below 3.00%
+hold	price == $85.72
+	prev == $85.30
+	diff == 0.49%		below 3.00%
+hold	price == $86.92
+	prev == $85.72
+	diff == 1.41%		below 3.00%
+buy	price == $82.15
+	prev == $86.92
+	diff == -5.49%		below 3.00%
+hold	price == $80.68
+	prev == $82.15
+	diff == -1.78%		below 3.00%
+hold	price == $80.71
+	prev == $80.68
+	diff == 0.04%		below 3.00%
+sell	price == $86.05
+	prev == $80.71
+	diff == 6.61%		above 3.00%
+hold	price == $88.18
+	prev == $86.05
+	diff == 2.48%		below 3.00%
+buy	price == $83.46
+	prev == $88.18
+	diff == -5.35%		below 3.00%
+sell	price == $87.28
+	prev == $83.46
+	diff == 4.58%		above 3.00%
+hold	price == $88.40
+	prev == $87.28
+	diff == 1.29%		below 3.00%
+sell	price == $93.92
+	prev == $88.40
+	diff == 6.25%		above 3.00%
+buy	price == $82.56
+	prev == $93.92
+	diff == -12.09%		below 3.00%
+sell	price == $87.36
+	prev == $82.56
+	diff == 5.82%		above 3.00%
+hold	price == $86.97
+	prev == $87.36
+	diff == -0.45%		below 3.00%
+sell	price == $90.60
+	prev == $86.97
+	diff == 4.18%		above 3.00%
+hold	price == $90.73
+	prev == $90.60
+	diff == 0.14%		below 3.00%
+sell	price == $95.00
+	prev == $90.73
+	diff == 4.71%		above 3.00%
+sell	price == $98.49
+	prev == $95.00
+	diff == 3.68%		above 3.00%
+hold	price == $97.64
+	prev == $98.49
+	diff == -0.86%		below 3.00%
+hold	price == $97.24
+	prev == $97.64
+	diff == -0.42%		below 3.00%
+hold	price == $99.63
+	prev == $97.24
+	diff == 2.46%		below 3.00%
+buy	price == $92.87
+	prev == $99.63
+	diff == -6.79%		below 3.00%
+hold	price == $93.06
+	prev == $92.87
+	diff == 0.20%		below 3.00%
+sell	price == $97.93
+	prev == $93.06
+	diff == 5.23%		above 3.00%
+hold	price == $95.61
+	prev == $97.93
+	diff == -2.36%		below 3.00%
+hold	price == $96.64
+	prev == $95.61
+	diff == 1.07%		below 3.00%
+hold	price == $94.16
+	prev == $96.64
+	diff == -2.56%		below 3.00%
+sell	price == $104.18
+	prev == $94.16
+	diff == 10.64%		above 3.00%
+buy	price == $99.63
+	prev == $104.18
+	diff == -4.37%		below 3.00%
+hold	price == $97.60
+	prev == $99.63
+	diff == -2.03%		below 3.00%
+hold	price == $94.75
+	prev == $97.60
+	diff == -2.92%		below 3.00%
+hold	price == $94.60
+	prev == $94.75
+	diff == -0.16%		below 3.00%
+buy	price == $90.20
+	prev == $94.60
+	diff == -4.65%		below 3.00%
+buy	price == $83.48
+	prev == $90.20
+	diff == -7.45%		below 3.00%
+sell	price == $88.30
+	prev == $83.48
+	diff == 5.78%		above 3.00%
+hold	price == $88.14
+	prev == $88.30
+	diff == -0.19%		below 3.00%
+sell	price == $95.61
+	prev == $88.14
+	diff == 8.48%		above 3.00%
+hold	price == $94.85
+	prev == $95.61
+	diff == -0.80%		below 3.00%
+buy	price == $87.02
+	prev == $94.85
+	diff == -8.25%		below 3.00%
+hold	price == $86.45
+	prev == $87.02
+	diff == -0.66%		below 3.00%
+hold	price == $84.81
+	prev == $86.45
+	diff == -1.90%		below 3.00%
+hold	price == $82.64
+	prev == $84.81
+	diff == -2.56%		below 3.00%
+sell	price == $90.99
+	prev == $82.64
+	diff == 10.10%		above 3.00%
+buy	price == $85.97
+	prev == $90.99
+	diff == -5.52%		below 3.00%
+hold	price == $86.34
+	prev == $85.97
+	diff == 0.43%		below 3.00%
+hold	price == $86.25
+	prev == $86.34
+	diff == -0.10%		below 3.00%
+hold	price == $87.52
+	prev == $86.25
+	diff == 1.47%		below 3.00%
+hold	price == $87.72
+	prev == $87.52
+	diff == 0.23%		below 3.00%
+buy	price == $81.92
+	prev == $87.72
+	diff == -6.61%		below 3.00%
+sell	price == $86.24
+	prev == $81.92
+	diff == 5.27%		above 3.00%
+sell	price == $91.80
+	prev == $86.24
+	diff == 6.44%		above 3.00%
+hold	price == $91.80
+	prev == $91.80
+	diff == 0.01%		below 3.00%
+hold	price == $93.63
+	prev == $91.80
+	diff == 1.99%		below 3.00%
+hold	price == $91.90
+	prev == $93.63
+	diff == -1.85%		below 3.00%
+hold	price == $90.14
+	prev == $91.90
+	diff == -1.91%		below 3.00%
+buy	price == $85.52
+	prev == $90.14
+	diff == -5.13%		below 3.00%
+hold	price == $85.04
+	prev == $85.52
+	diff == -0.56%		below 3.00%
+hold	price == $82.97
+	prev == $85.04
+	diff == -2.43%		below 3.00%
+hold	price == $84.15
+	prev == $82.97
+	diff == 1.42%		below 3.00%
+hold	price == $85.65
+	prev == $84.15
+	diff == 1.78%		below 3.00%
+buy	price == $81.79
+	prev == $85.65
+	diff == -4.50%		below 3.00%
+hold	price == $82.33
+	prev == $81.79
+	diff == 0.65%		below 3.00%
+buy	price == $77.97
+	prev == $82.33
+	diff == -5.29%		below 3.00%
+hold	price == $77.24
+	prev == $77.97
+	diff == -0.93%		below 3.00%
+buy	price == $74.67
+	prev == $77.24
+	diff == -3.34%		below 3.00%
+hold	price == $75.77
+	prev == $74.67
+	diff == 1.48%		below 3.00%
+buy	price == $71.54
+	prev == $75.77
+	diff == -5.58%		below 3.00%
+buy	price == $69.03
+	prev == $71.54
+	diff == -3.52%		below 3.00%
+hold	price == $68.19
+	prev == $69.03
+	diff == -1.20%		below 3.00%
+buy	price == $60.47
+	prev == $68.19
+	diff == -11.32%		below 3.00%
+buy	price == $57.16
+	prev == $60.47
+	diff == -5.49%		below 3.00%
+sell	price == $61.67
+	prev == $57.16
+	diff == 7.90%		above 3.00%
+buy	price == $58.95
+	prev == $61.67
+	diff == -4.41%		below 3.00%
+hold	price == $59.98
+	prev == $58.95
+	diff == 1.75%		below 3.00%
+buy	price == $56.92
+	prev == $59.98
+	diff == -5.11%		below 3.00%
+hold	price == $56.28
+	prev == $56.92
+	diff == -1.11%		below 3.00%
+sell	price == $66.78
+	prev == $56.28
+	diff == 18.64%		above 3.00%
+sell	price == $70.36
+	prev == $66.78
+	diff == 5.37%		above 3.00%
+hold	price == $70.18
+	prev == $70.36
+	diff == -0.25%		below 3.00%
+sell	price == $73.10
+	prev == $70.18
+	diff == 4.15%		above 3.00%
+hold	price == $75.04
+	prev == $73.10
+	diff == 2.66%		below 3.00%
+hold	price == $75.45
+	prev == $75.04
+	diff == 0.55%		below 3.00%
+hold	price == $76.15
+	prev == $75.45
+	diff == 0.93%		below 3.00%
+buy	price == $72.97
+	prev == $76.15
+	diff == -4.18%		below 3.00%
+hold	price == $73.17
+	prev == $72.97
+	diff == 0.27%		below 3.00%
+sell	price == $79.53
+	prev == $73.17
+	diff == 8.70%		above 3.00%
+hold	price == $80.10
+	prev == $79.53
+	diff == 0.71%		below 3.00%
+hold	price == $78.90
+	prev == $80.10
+	diff == -1.49%		below 3.00%
+sell	price == $81.45
+	prev == $78.90
+	diff == 3.22%		above 3.00%
+hold	price == $81.93
+	prev == $81.45
+	diff == 0.59%		below 3.00%
+sell	price == $85.67
+	prev == $81.93
+	diff == 4.57%		above 3.00%
+hold	price == $87.31
+	prev == $85.67
+	diff == 1.91%		below 3.00%
+hold	price == $85.61
+	prev == $87.31
+	diff == -1.95%		below 3.00%
+sell	price == $92.47
+	prev == $85.61
+	diff == 8.02%		above 3.00%
+sell	price == $95.82
+	prev == $92.47
+	diff == 3.62%		above 3.00%
+hold	price == $98.13
+	prev == $95.82
+	diff == 2.42%		below 3.00%
+hold	price == $99.86
+	prev == $98.13
+	diff == 1.76%		below 3.00%
+sell	price == $105.03
+	prev == $99.86
+	diff == 5.18%		above 3.00%
+hold	price == $104.96
+	prev == $105.03
+	diff == -0.07%		below 3.00%
+hold	price == $103.78
+	prev == $104.96
+	diff == -1.12%		below 3.00%
+hold	price == $104.08
+	prev == $103.78
+	diff == 0.28%		below 3.00%
+hold	price == $107.16
+	prev == $104.08
+	diff == 2.96%		below 3.00%
+hold	price == $104.87
+	prev == $107.16
+	diff == -2.14%		below 3.00%
+buy	price == $96.99
+	prev == $104.87
+	diff == -7.51%		below 3.00%
+buy	price == $92.92
+	prev == $96.99
+	diff == -4.19%		below 3.00%
+hold	price == $91.19
+	prev == $92.92
+	diff == -1.87%		below 3.00%
+hold	price == $91.14
+	prev == $91.19
+	diff == -0.05%		below 3.00%
+hold	price == $93.11
+	prev == $91.14
+	diff == 2.16%		below 3.00%
+hold	price == $92.88
+	prev == $93.11
+	diff == -0.25%		below 3.00%
+buy	price == $88.98
+	prev == $92.88
+	diff == -4.20%		below 3.00%
+buy	price == $85.01
+	prev == $88.98
+	diff == -4.46%		below 3.00%
+hold	price == $86.26
+	prev == $85.01
+	diff == 1.47%		below 3.00%
+buy	price == $83.42
+	prev == $86.26
+	diff == -3.29%		below 3.00%
+sell	price == $89.89
+	prev == $83.42
+	diff == 7.76%		above 3.00%
+sell	price == $94.89
+	prev == $89.89
+	diff == 5.56%		above 3.00%
+hold	price == $97.05
+	prev == $94.89
+	diff == 2.27%		below 3.00%
+sell	price == $101.62
+	prev == $97.05
+	diff == 4.71%		above 3.00%
+sell	price == $105.51
+	prev == $101.62
+	diff == 3.83%		above 3.00%
+buy	price == $101.83
+	prev == $105.51
+	diff == -3.49%		below 3.00%
+hold	price == $99.94
+	prev == $101.83
+	diff == -1.86%		below 3.00%
+buy	price == $96.41
+	prev == $99.94
+	diff == -3.52%		below 3.00%
+sell	price == $100.21
+	prev == $96.41
+	diff == 3.94%		above 3.00%
+hold	price == $101.64
+	prev == $100.21
+	diff == 1.42%		below 3.00%
+hold	price == $103.13
+	prev == $101.64
+	diff == 1.47%		below 3.00%
+buy	price == $99.52
+	prev == $103.13
+	diff == -3.50%		below 3.00%
+hold	price == $100.75
+	prev == $99.52
+	diff == 1.24%		below 3.00%
+buy	price == $94.22
+	prev == $100.75
+	diff == -6.48%		below 3.00%
+sell	price == $98.10
+	prev == $94.22
+	diff == 4.12%		above 3.00%
+buy	price == $93.42
+	prev == $98.10
+	diff == -4.77%		below 3.00%
+hold	price == $91.40
+	prev == $93.42
+	diff == -2.17%		below 3.00%
+hold	price == $94.07
+	prev == $91.40
+	diff == 2.92%		below 3.00%
+hold	price == $93.47
+	prev == $94.07
+	diff == -0.64%		below 3.00%
+buy	price == $88.80
+	prev == $93.47
+	diff == -5.00%		below 3.00%
+sell	price == $91.74
+	prev == $88.80
+	diff == 3.32%		above 3.00%
+hold	price == $90.36
+	prev == $91.74
+	diff == -1.51%		below 3.00%
+hold	price == $89.72
+	prev == $90.36
+	diff == -0.71%		below 3.00%
+sell	price == $92.57
+	prev == $89.72
+	diff == 3.17%		above 3.00%
+sell	price == $96.04
+	prev == $92.57
+	diff == 3.75%		above 3.00%
+hold	price == $95.32
+	prev == $96.04
+	diff == -0.75%		below 3.00%
+sell	price == $102.52
+	prev == $95.32
+	diff == 7.55%		above 3.00%
+hold	price == $100.20
+	prev == $102.52
+	diff == -2.26%		below 3.00%
+hold	price == $100.76
+	prev == $100.20
+	diff == 0.56%		below 3.00%
+hold	price == $98.21
+	prev == $100.76
+	diff == -2.53%		below 3.00%
+hold	price == $98.27
+	prev == $98.21
+	diff == 0.05%		below 3.00%
+hold	price == $98.72
+	prev == $98.27
+	diff == 0.46%		below 3.00%
+hold	price == $98.38
+	prev == $98.72
+	diff == -0.34%		below 3.00%
+buy	price == $95.19
+	prev == $98.38
+	diff == -3.25%		below 3.00%
+buy	price == $92.06
+	prev == $95.19
+	diff == -3.29%		below 3.00%
+hold	price == $90.38
+	prev == $92.06
+	diff == -1.82%		below 3.00%
+hold	price == $90.04
+	prev == $90.38
+	diff == -0.37%		below 3.00%
+hold	price == $92.37
+	prev == $90.04
+	diff == 2.58%		below 3.00%
+sell	price == $102.42
+	prev == $92.37
+	diff == 10.88%		above 3.00%
+buy	price == $96.66
+	prev == $102.42
+	diff == -5.63%		below 3.00%
+hold	price == $93.94
+	prev == $96.66
+	diff == -2.82%		below 3.00%
+sell	price == $97.80
+	prev == $93.94
+	diff == 4.12%		above 3.00%
+hold	price == $97.18
+	prev == $97.80
+	diff == -0.64%		below 3.00%
+hold	price == $99.38
+	prev == $97.18
+	diff == 2.26%		below 3.00%
+hold	price == $98.29
+	prev == $99.38
+	diff == -1.10%		below 3.00%
+sell	price == $101.92
+	prev == $98.29
+	diff == 3.70%		above 3.00%
+hold	price == $103.70
+	prev == $101.92
+	diff == 1.75%		below 3.00%
+hold	price == $103.81
+	prev == $103.70
+	diff == 0.10%		below 3.00%
+hold	price == $102.16
+	prev == $103.81
+	diff == -1.58%		below 3.00%
+buy	price == $97.32
+	prev == $102.16
+	diff == -4.74%		below 3.00%
+sell	price == $106.08
+	prev == $97.32
+	diff == 9.00%		above 3.00%
+hold	price == $105.09
+	prev == $106.08
+	diff == -0.94%		below 3.00%
+buy	price == $94.67
+	prev == $105.09
+	diff == -9.91%		below 3.00%
+hold	price == $96.69
+	prev == $94.67
+	diff == 2.13%		below 3.00%
+hold	price == $98.10
+	prev == $96.69
+	diff == 1.46%		below 3.00%
+sell	price == $101.56
+	prev == $98.10
+	diff == 3.53%		above 3.00%
+hold	price == $103.01
+	prev == $101.56
+	diff == 1.43%		below 3.00%
+hold	price == $102.88
+	prev == $103.01
+	diff == -0.13%		below 3.00%
+hold	price == $100.20
+	prev == $102.88
+	diff == -2.61%		below 3.00%
+hold	price == $101.59
+	prev == $100.20
+	diff == 1.39%		below 3.00%
+hold	price == $99.73
+	prev == $101.59
+	diff == -1.83%		below 3.00%
+sell	price == $105.09
+	prev == $99.73
+	diff == 5.37%		above 3.00%
+sell	price == $109.94
+	prev == $105.09
+	diff == 4.61%		above 3.00%
+hold	price == $110.48
+	prev == $109.94
+	diff == 0.49%		below 3.00%
+buy	price == $103.09
+	prev == $110.48
+	diff == -6.68%		below 3.00%
+hold	price == $101.62
+	prev == $103.09
+	diff == -1.43%		below 3.00%
+hold	price == $102.04
+	prev == $101.62
+	diff == 0.42%		below 3.00%
+hold	price == $103.68
+	prev == $102.04
+	diff == 1.61%		below 3.00%
+buy	price == $99.80
+	prev == $103.68
+	diff == -3.75%		below 3.00%
+hold	price == $98.80
+	prev == $99.80
+	diff == -1.00%		below 3.00%
+hold	price == $99.14
+	prev == $98.80
+	diff == 0.34%		below 3.00%
+hold	price == $98.96
+	prev == $99.14
+	diff == -0.18%		below 3.00%
+buy	price == $92.89
+	prev == $98.96
+	diff == -6.13%		below 3.00%
+buy	price == $86.33
+	prev == $92.89
+	diff == -7.06%		below 3.00%
+sell	price == $89.53
+	prev == $86.33
+	diff == 3.70%		above 3.00%
+hold	price == $87.81
+	prev == $89.53
+	diff == -1.92%		below 3.00%
+hold	price == $88.89
+	prev == $87.81
+	diff == 1.24%		below 3.00%
+hold	price == $87.42
+	prev == $88.89
+	diff == -1.66%		below 3.00%
+hold	price == $85.90
+	prev == $87.42
+	diff == -1.74%		below 3.00%
+hold	price == $84.44
+	prev == $85.90
+	diff == -1.71%		below 3.00%
+sell	price == $90.14
+	prev == $84.44
+	diff == 6.76%		above 3.00%
+sell	price == $93.76
+	prev == $90.14
+	diff == 4.02%		above 3.00%
+hold	price == $95.03
+	prev == $93.76
+	diff == 1.35%		below 3.00%
+hold	price == $93.79
+	prev == $95.03
+	diff == -1.30%		below 3.00%
+buy	price == $89.22
+	prev == $93.79
+	diff == -4.87%		below 3.00%
+hold	price == $87.26
+	prev == $89.22
+	diff == -2.20%		below 3.00%
+buy	price == $83.77
+	prev == $87.26
+	diff == -4.00%		below 3.00%
+hold	price == $85.79
+	prev == $83.77
+	diff == 2.41%		below 3.00%
+hold	price == $85.49
+	prev == $85.79
+	diff == -0.35%		below 3.00%
+sell	price == $89.92
+	prev == $85.49
+	diff == 5.18%		above 3.00%
+hold	price == $91.09
+	prev == $89.92
+	diff == 1.30%		below 3.00%
+hold	price == $93.55
+	prev == $91.09
+	diff == 2.70%		below 3.00%
+buy	price == $88.53
+	prev == $93.55
+	diff == -5.37%		below 3.00%
+buy	price == $84.36
+	prev == $88.53
+	diff == -4.71%		below 3.00%
+buy	price == $76.68
+	prev == $84.36
+	diff == -9.11%		below 3.00%
+hold	price == $76.31
+	prev == $76.68
+	diff == -0.49%		below 3.00%
+hold	price == $76.47
+	prev == $76.31
+	diff == 0.22%		below 3.00%
+hold	price == $77.30
+	prev == $76.47
+	diff == 1.09%		below 3.00%
+hold	price == $78.45
+	prev == $77.30
+	diff == 1.49%		below 3.00%
+hold	price == $79.63
+	prev == $78.45
+	diff == 1.50%		below 3.00%
+sell	price == $83.27
+	prev == $79.63
+	diff == 4.56%		above 3.00%
+hold	price == $82.72
+	prev == $83.27
+	diff == -0.65%		below 3.00%
+hold	price == $84.01
+	prev == $82.72
+	diff == 1.55%		below 3.00%
+sell	price == $86.70
+	prev == $84.01
+	diff == 3.20%		above 3.00%
+buy	price == $79.99
+	prev == $86.70
+	diff == -7.74%		below 3.00%
+hold	price == $78.89
+	prev == $79.99
+	diff == -1.37%		below 3.00%
+hold	price == $78.19
+	prev == $78.89
+	diff == -0.89%		below 3.00%
+sell	price == $81.55
+	prev == $78.19
+	diff == 4.30%		above 3.00%
+buy	price == $78.78
+	prev == $81.55
+	diff == -3.40%		below 3.00%
+hold	price == $79.96
+	prev == $78.78
+	diff == 1.50%		below 3.00%
+hold	price == $79.55
+	prev == $79.96
+	diff == -0.51%		below 3.00%
+buy	price == $76.87
+	prev == $79.55
+	diff == -3.37%		below 3.00%
+hold	price == $78.91
+	prev == $76.87
+	diff == 2.65%		below 3.00%
+buy	price == $74.55
+	prev == $78.91
+	diff == -5.53%		below 3.00%
+hold	price == $74.02
+	prev == $74.55
+	diff == -0.70%		below 3.00%
+hold	price == $74.71
+	prev == $74.02
+	diff == 0.93%		below 3.00%
+sell	price == $78.65
+	prev == $74.71
+	diff == 5.26%		above 3.00%
+sell	price == $83.42
+	prev == $78.65
+	diff == 6.06%		above 3.00%
+buy	price == $80.74
+	prev == $83.42
+	diff == -3.21%		below 3.00%
+hold	price == $82.43
+	prev == $80.74
+	diff == 2.09%		below 3.00%
+hold	price == $82.47
+	prev == $82.43
+	diff == 0.05%		below 3.00%
+hold	price == $82.84
+	prev == $82.47
+	diff == 0.45%		below 3.00%
+hold	price == $82.49
+	prev == $82.84
+	diff == -0.43%		below 3.00%
+sell	price == $90.25
+	prev == $82.49
+	diff == 9.41%		above 3.00%
+hold	price == $90.28
+	prev == $90.25
+	diff == 0.03%		below 3.00%
+hold	price == $87.79
+	prev == $90.28
+	diff == -2.76%		below 3.00%
+hold	price == $87.94
+	prev == $87.79
+	diff == 0.18%		below 3.00%
+buy	price == $85.07
+	prev == $87.94
+	diff == -3.27%		below 3.00%
+hold	price == $86.92
+	prev == $85.07
+	diff == 2.17%		below 3.00%
+buy	price == $84.10
+	prev == $86.92
+	diff == -3.24%		below 3.00%
+hold	price == $85.08
+	prev == $84.10
+	diff == 1.16%		below 3.00%
+sell	price == $93.19
+	prev == $85.08
+	diff == 9.54%		above 3.00%
+buy	price == $88.08
+	prev == $93.19
+	diff == -5.48%		below 3.00%
+buy	price == $84.86
+	prev == $88.08
+	diff == -3.65%		below 3.00%
+sell	price == $88.97
+	prev == $84.86
+	diff == 4.85%		above 3.00%
+sell	price == $93.80
+	prev == $88.97
+	diff == 5.42%		above 3.00%
+buy	price == $89.40
+	prev == $93.80
+	diff == -4.69%		below 3.00%
+buy	price == $84.78
+	prev == $89.40
+	diff == -5.17%		below 3.00%
+buy	price == $79.90
+	prev == $84.78
+	diff == -5.76%		below 3.00%
+hold	price == $81.78
+	prev == $79.90
+	diff == 2.35%		below 3.00%
+hold	price == $80.95
+	prev == $81.78
+	diff == -1.01%		below 3.00%
+buy	price == $70.79
+	prev == $80.95
+	diff == -12.55%		below 3.00%
+buy	price == $65.19
+	prev == $70.79
+	diff == -7.92%		below 3.00%
+sell	price == $69.21
+	prev == $65.19
+	diff == 6.17%		above 3.00%
+buy	price == $64.82
+	prev == $69.21
+	diff == -6.34%		below 3.00%
+sell	price == $67.01
+	prev == $64.82
+	diff == 3.37%		above 3.00%
+buy	price == $64.92
+	prev == $67.01
+	diff == -3.12%		below 3.00%
+buy	price == $62.54
+	prev == $64.92
+	diff == -3.66%		below 3.00%
+hold	price == $63.08
+	prev == $62.54
+	diff == 0.87%		below 3.00%
+sell	price == $67.81
+	prev == $63.08
+	diff == 7.49%		above 3.00%
+hold	price == $66.93
+	prev == $67.81
+	diff == -1.29%		below 3.00%
+buy	price == $59.83
+	prev == $66.93
+	diff == -10.61%		below 3.00%
+buy	price == $56.17
+	prev == $59.83
+	diff == -6.11%		below 3.00%
+hold	price == $56.87
+	prev == $56.17
+	diff == 1.24%		below 3.00%
+sell	price == $61.18
+	prev == $56.87
+	diff == 7.58%		above 3.00%
+sell	price == $67.89
+	prev == $61.18
+	diff == 10.98%		above 3.00%
+hold	price == $67.03
+	prev == $67.89
+	diff == -1.27%		below 3.00%
+buy	price == $64.73
+	prev == $67.03
+	diff == -3.43%		below 3.00%
+hold	price == $65.22
+	prev == $64.73
+	diff == 0.76%		below 3.00%
+buy	price == $59.57
+	prev == $65.22
+	diff == -8.67%		below 3.00%
+hold	price == $59.74
+	prev == $59.57
+	diff == 0.28%		below 3.00%
+sell	price == $62.27
+	prev == $59.74
+	diff == 4.25%		above 3.00%
+hold	price == $60.56
+	prev == $62.27
+	diff == -2.75%		below 3.00%
+hold	price == $61.23
+	prev == $60.56
+	diff == 1.11%		below 3.00%
+buy	price == $56.69
+	prev == $61.23
+	diff == -7.41%		below 3.00%
+sell	price == $60.76
+	prev == $56.69
+	diff == 7.17%		above 3.00%
+sell	price == $65.73
+	prev == $60.76
+	diff == 8.19%		above 3.00%
+sell	price == $68.01
+	prev == $65.73
+	diff == 3.46%		above 3.00%
+sell	price == $75.98
+	prev == $68.01
+	diff == 11.71%		above 3.00%
+sell	price == $79.36
+	prev == $75.98
+	diff == 4.45%		above 3.00%
+buy	price == $76.15
+	prev == $79.36
+	diff == -4.05%		below 3.00%
+buy	price == $69.43
+	prev == $76.15
+	diff == -8.82%		below 3.00%
+hold	price == $68.35
+	prev == $69.43
+	diff == -1.56%		below 3.00%
+sell	price == $70.52
+	prev == $68.35
+	diff == 3.17%		above 3.00%
+sell	price == $75.62
+	prev == $70.52
+	diff == 7.23%		above 3.00%
+buy	price == $72.93
+	prev == $75.62
+	diff == -3.55%		below 3.00%
+sell	price == $80.02
+	prev == $72.93
+	diff == 9.72%		above 3.00%
+buy	price == $76.50
+	prev == $80.02
+	diff == -4.40%		below 3.00%
+sell	price == $83.57
+	prev == $76.50
+	diff == 9.24%		above 3.00%
+hold	price == $82.14
+	prev == $83.57
+	diff == -1.71%		below 3.00%
+hold	price == $83.74
+	prev == $82.14
+	diff == 1.95%		below 3.00%
+hold	price == $83.91
+	prev == $83.74
+	diff == 0.20%		below 3.00%
+hold	price == $84.02
+	prev == $83.91
+	diff == 0.14%		below 3.00%
+buy	price == $76.56
+	prev == $84.02
+	diff == -8.89%		below 3.00%
+sell	price == $85.91
+	prev == $76.56
+	diff == 12.22%		above 3.00%
+hold	price == $87.62
+	prev == $85.91
+	diff == 1.99%		below 3.00%
+hold	price == $87.48
+	prev == $87.62
+	diff == -0.16%		below 3.00%
+hold	price == $87.15
+	prev == $87.48
+	diff == -0.38%		below 3.00%
+hold	price == $84.60
+	prev == $87.15
+	diff == -2.93%		below 3.00%
+hold	price == $83.05
+	prev == $84.60
+	diff == -1.83%		below 3.00%
+hold	price == $85.12
+	prev == $83.05
+	diff == 2.50%		below 3.00%
+hold	price == $85.46
+	prev == $85.12
+	diff == 0.40%		below 3.00%
+hold	price == $87.62
+	prev == $85.46
+	diff == 2.52%		below 3.00%
+hold	price == $89.75
+	prev == $87.62
+	diff == 2.44%		below 3.00%
+buy	price == $85.79
+	prev == $89.75
+	diff == -4.42%		below 3.00%
+sell	price == $90.45
+	prev == $85.79
+	diff == 5.44%		above 3.00%
+hold	price == $91.87
+	prev == $90.45
+	diff == 1.57%		below 3.00%
+buy	price == $88.99
+	prev == $91.87
+	diff == -3.14%		below 3.00%
+hold	price == $87.67
+	prev == $88.99
+	diff == -1.49%		below 3.00%
+hold	price == $87.76
+	prev == $87.67
+	diff == 0.10%		below 3.00%
+hold	price == $85.13
+	prev == $87.76
+	diff == -2.99%		below 3.00%
+hold	price == $83.86
+	prev == $85.13
+	diff == -1.49%		below 3.00%
+sell	price == $87.21
+	prev == $83.86
+	diff == 3.99%		above 3.00%
+sell	price == $91.51
+	prev == $87.21
+	diff == 4.93%		above 3.00%
+buy	price == $85.35
+	prev == $91.51
+	diff == -6.74%		below 3.00%
+sell	price == $88.54
+	prev == $85.35
+	diff == 3.74%		above 3.00%
+hold	price == $87.16
+	prev == $88.54
+	diff == -1.56%		below 3.00%
+buy	price == $83.02
+	prev == $87.16
+	diff == -4.74%		below 3.00%
+sell	price == $86.50
+	prev == $83.02
+	diff == 4.19%		above 3.00%
+hold	price == $85.25
+	prev == $86.50
+	diff == -1.44%		below 3.00%
+buy	price == $78.57
+	prev == $85.25
+	diff == -7.83%		below 3.00%
+buy	price == $72.47
+	prev == $78.57
+	diff == -7.76%		below 3.00%
+sell	price == $75.39
+	prev == $72.47
+	diff == 4.02%		above 3.00%
+buy	price == $72.22
+	prev == $75.39
+	diff == -4.20%		below 3.00%
+buy	price == $68.94
+	prev == $72.22
+	diff == -4.54%		below 3.00%
+hold	price == $69.85
+	prev == $68.94
+	diff == 1.32%		below 3.00%
+sell	price == $72.76
+	prev == $69.85
+	diff == 4.16%		above 3.00%
+buy	price == $67.66
+	prev == $72.76
+	diff == -7.01%		below 3.00%
+hold	price == $66.80
+	prev == $67.66
+	diff == -1.26%		below 3.00%
+sell	price == $69.00
+	prev == $66.80
+	diff == 3.30%		above 3.00%
+buy	price == $63.17
+	prev == $69.00
+	diff == -8.45%		below 3.00%
+hold	price == $64.06
+	prev == $63.17
+	diff == 1.41%		below 3.00%
+hold	price == $62.74
+	prev == $64.06
+	diff == -2.06%		below 3.00%
+hold	price == $64.04
+	prev == $62.74
+	diff == 2.07%		below 3.00%
+hold	price == $64.41
+	prev == $64.04
+	diff == 0.57%		below 3.00%
+buy	price == $61.20
+	prev == $64.41
+	diff == -4.98%		below 3.00%
+buy	price == $55.08
+	prev == $61.20
+	diff == -10.00%		below 3.00%
+hold	price == $55.79
+	prev == $55.08
+	diff == 1.28%		below 3.00%
+sell	price == $60.93
+	prev == $55.79
+	diff == 9.22%		above 3.00%
+hold	price == $60.50
+	prev == $60.93
+	diff == -0.70%		below 3.00%
+sell	price == $63.51
+	prev == $60.50
+	diff == 4.98%		above 3.00%
+buy	price == $60.58
+	prev == $63.51
+	diff == -4.61%		below 3.00%
+hold	price == $60.40
+	prev == $60.58
+	diff == -0.31%		below 3.00%
+buy	price == $57.96
+	prev == $60.40
+	diff == -4.04%		below 3.00%
+hold	price == $57.66
+	prev == $57.96
+	diff == -0.52%		below 3.00%
+hold	price == $56.35
+	prev == $57.66
+	diff == -2.26%		below 3.00%
+sell	price == $61.74
+	prev == $56.35
+	diff == 9.56%		above 3.00%
+hold	price == $62.87
+	prev == $61.74
+	diff == 1.83%		below 3.00%
+sell	price == $65.53
+	prev == $62.87
+	diff == 4.24%		above 3.00%
+buy	price == $62.69
+	prev == $65.53
+	diff == -4.33%		below 3.00%
+sell	price == $64.93
+	prev == $62.69
+	diff == 3.58%		above 3.00%
+hold	price == $66.06
+	prev == $64.93
+	diff == 1.73%		below 3.00%
+hold	price == $65.19
+	prev == $66.06
+	diff == -1.32%		below 3.00%
+sell	price == $71.25
+	prev == $65.19
+	diff == 9.30%		above 3.00%
+sell	price == $75.05
+	prev == $71.25
+	diff == 5.34%		above 3.00%
+buy	price == $72.41
+	prev == $75.05
+	diff == -3.53%		below 3.00%
+sell	price == $75.64
+	prev == $72.41
+	diff == 4.47%		above 3.00%
+hold	price == $74.63
+	prev == $75.64
+	diff == -1.34%		below 3.00%
+hold	price == $73.72
+	prev == $74.63
+	diff == -1.23%		below 3.00%
+sell	price == $82.09
+	prev == $73.72
+	diff == 11.36%		above 3.00%
+hold	price == $84.54
+	prev == $82.09
+	diff == 2.99%		below 3.00%
+sell	price == $91.09
+	prev == $84.54
+	diff == 7.74%		above 3.00%
+hold	price == $90.01
+	prev == $91.09
+	diff == -1.18%		below 3.00%
+hold	price == $92.33
+	prev == $90.01
+	diff == 2.58%		below 3.00%
+buy	price == $86.40
+	prev == $92.33
+	diff == -6.43%		below 3.00%
+sell	price == $92.01
+	prev == $86.40
+	diff == 6.50%		above 3.00%
+hold	price == $93.32
+	prev == $92.01
+	diff == 1.42%		below 3.00%
+hold	price == $90.71
+	prev == $93.32
+	diff == -2.79%		below 3.00%
+hold	price == $90.98
+	prev == $90.71
+	diff == 0.29%		below 3.00%
+buy	price == $88.24
+	prev == $90.98
+	diff == -3.01%		below 3.00%
+buy	price == $83.49
+	prev == $88.24
+	diff == -5.38%		below 3.00%
+hold	price == $82.55
+	prev == $83.49
+	diff == -1.13%		below 3.00%
+buy	price == $75.80
+	prev == $82.55
+	diff == -8.17%		below 3.00%
+sell	price == $79.52
+	prev == $75.80
+	diff == 4.90%		above 3.00%
+hold	price == $80.34
+	prev == $79.52
+	diff == 1.04%		below 3.00%
+hold	price == $79.29
+	prev == $80.34
+	diff == -1.31%		below 3.00%
+buy	price == $76.16
+	prev == $79.29
+	diff == -3.95%		below 3.00%
+hold	price == $77.83
+	prev == $76.16
+	diff == 2.19%		below 3.00%
+sell	price == $81.33
+	prev == $77.83
+	diff == 4.50%		above 3.00%
+hold	price == $82.36
+	prev == $81.33
+	diff == 1.26%		below 3.00%
+buy	price == $77.74
+	prev == $82.36
+	diff == -5.61%		below 3.00%
+hold	price == $75.97
+	prev == $77.74
+	diff == -2.27%		below 3.00%
+sell	price == $81.70
+	prev == $75.97
+	diff == 7.54%		above 3.00%
+sell	price == $88.49
+	prev == $81.70
+	diff == 8.31%		above 3.00%
+hold	price == $89.86
+	prev == $88.49
+	diff == 1.54%		below 3.00%
+buy	price == $83.62
+	prev == $89.86
+	diff == -6.94%		below 3.00%
+hold	price == $83.92
+	prev == $83.62
+	diff == 0.36%		below 3.00%
+hold	price == $82.49
+	prev == $83.92
+	diff == -1.71%		below 3.00%
+hold	price == $82.88
+	prev == $82.49
+	diff == 0.48%		below 3.00%
+sell	price == $87.79
+	prev == $82.88
+	diff == 5.92%		above 3.00%
+sell	price == $91.01
+	prev == $87.79
+	diff == 3.67%		above 3.00%
+hold	price == $93.43
+	prev == $91.01
+	diff == 2.66%		below 3.00%
+hold	price == $93.38
+	prev == $93.43
+	diff == -0.06%		below 3.00%
+hold	price == $93.68
+	prev == $93.38
+	diff == 0.32%		below 3.00%
+buy	price == $90.28
+	prev == $93.68
+	diff == -3.63%		below 3.00%
+sell	price == $96.44
+	prev == $90.28
+	diff == 6.83%		above 3.00%
+hold	price == $98.86
+	prev == $96.44
+	diff == 2.51%		below 3.00%
+sell	price == $107.39
+	prev == $98.86
+	diff == 8.63%		above 3.00%
+hold	price == $106.07
+	prev == $107.39
+	diff == -1.23%		below 3.00%
+hold	price == $103.55
+	prev == $106.07
+	diff == -2.38%		below 3.00%
+hold	price == $103.50
+	prev == $103.55
+	diff == -0.04%		below 3.00%
+buy	price == $97.65
+	prev == $103.50
+	diff == -5.65%		below 3.00%
+hold	price == $98.37
+	prev == $97.65
+	diff == 0.73%		below 3.00%
+buy	price == $94.79
+	prev == $98.37
+	diff == -3.63%		below 3.00%
+hold	price == $93.74
+	prev == $94.79
+	diff == -1.11%		below 3.00%
+hold	price == $91.63
+	prev == $93.74
+	diff == -2.25%		below 3.00%
+sell	price == $101.62
+	prev == $91.63
+	diff == 10.91%		above 3.00%
+hold	price == $103.02
+	prev == $101.62
+	diff == 1.38%		below 3.00%
+sell	price == $106.18
+	prev == $103.02
+	diff == 3.07%		above 3.00%
+hold	price == $104.59
+	prev == $106.18
+	diff == -1.50%		below 3.00%
+hold	price == $105.50
+	prev == $104.59
+	diff == 0.86%		below 3.00%
+hold	price == $103.10
+	prev == $105.50
+	diff == -2.27%		below 3.00%
+hold	price == $103.92
+	prev == $103.10
+	diff == 0.80%		below 3.00%
+sell	price == $109.54
+	prev == $103.92
+	diff == 5.40%		above 3.00%
+hold	price == $109.86
+	prev == $109.54
+	diff == 0.29%		below 3.00%
+hold	price == $108.21
+	prev == $109.86
+	diff == -1.50%		below 3.00%
+buy	price == $103.97
+	prev == $108.21
+	diff == -3.92%		below 3.00%
+buy	price == $97.32
+	prev == $103.97
+	diff == -6.39%		below 3.00%
+hold	price == $97.29
+	prev == $97.32
+	diff == -0.03%		below 3.00%
+hold	price == $95.57
+	prev == $97.29
+	diff == -1.77%		below 3.00%
+hold	price == $92.99
+	prev == $95.57
+	diff == -2.71%		below 3.00%
+hold	price == $93.67
+	prev == $92.99
+	diff == 0.73%		below 3.00%
+sell	price == $98.11
+	prev == $93.67
+	diff == 4.73%		above 3.00%
+hold	price == $100.57
+	prev == $98.11
+	diff == 2.52%		below 3.00%
+buy	price == $97.21
+	prev == $100.57
+	diff == -3.35%		below 3.00%
+hold	price == $97.21
+	prev == $97.21
+	diff == -0.00%		below 3.00%
+hold	price == $96.06
+	prev == $97.21
+	diff == -1.18%		below 3.00%
+hold	price == $93.57
+	prev == $96.06
+	diff == -2.59%		below 3.00%
+hold	price == $91.43
+	prev == $93.57
+	diff == -2.30%		below 3.00%
+buy	price == $85.37
+	prev == $91.43
+	diff == -6.63%		below 3.00%
+hold	price == $87.77
+	prev == $85.37
+	diff == 2.81%		below 3.00%
+hold	price == $88.95
+	prev == $87.77
+	diff == 1.35%		below 3.00%
+sell	price == $94.84
+	prev == $88.95
+	diff == 6.62%		above 3.00%
+hold	price == $97.34
+	prev == $94.84
+	diff == 2.64%		below 3.00%
+hold	price == $98.79
+	prev == $97.34
+	diff == 1.49%		below 3.00%
+hold	price == $98.30
+	prev == $98.79
+	diff == -0.50%		below 3.00%
+sell	price == $102.23
+	prev == $98.30
+	diff == 4.00%		above 3.00%
+hold	price == $104.18
+	prev == $102.23
+	diff == 1.90%		below 3.00%
+sell	price == $107.93
+	prev == $104.18
+	diff == 3.61%		above 3.00%
+buy	price == $103.11
+	prev == $107.93
+	diff == -4.47%		below 3.00%
+sell	price == $109.52
+	prev == $103.11
+	diff == 6.22%		above 3.00%
+hold	price == $109.92
+	prev == $109.52
+	diff == 0.37%		below 3.00%
+buy	price == $98.38
+	prev == $109.92
+	diff == -10.50%		below 3.00%
+hold	price == $100.63
+	prev == $98.38
+	diff == 2.28%		below 3.00%
+hold	price == $100.30
+	prev == $100.63
+	diff == -0.33%		below 3.00%
+buy	price == $97.23
+	prev == $100.30
+	diff == -3.06%		below 3.00%
+hold	price == $97.84
+	prev == $97.23
+	diff == 0.63%		below 3.00%
+sell	price == $100.99
+	prev == $97.84
+	diff == 3.22%		above 3.00%
+buy	price == $97.24
+	prev == $100.99
+	diff == -3.71%		below 3.00%
+hold	price == $98.12
+	prev == $97.24
+	diff == 0.90%		below 3.00%
+sell	price == $102.99
+	prev == $98.12
+	diff == 4.96%		above 3.00%
+hold	price == $103.99
+	prev == $102.99
+	diff == 0.97%		below 3.00%
+hold	price == $100.94
+	prev == $103.99
+	diff == -2.94%		below 3.00%
+buy	price == $94.51
+	prev == $100.94
+	diff == -6.36%		below 3.00%
+sell	price == $99.11
+	prev == $94.51
+	diff == 4.87%		above 3.00%
+hold	price == $99.22
+	prev == $99.11
+	diff == 0.11%		below 3.00%
+hold	price == $100.52
+	prev == $99.22
+	diff == 1.31%		below 3.00%
+hold	price == $98.48
+	prev == $100.52
+	diff == -2.03%		below 3.00%
+buy	price == $93.25
+	prev == $98.48
+	diff == -5.31%		below 3.00%
+hold	price == $90.94
+	prev == $93.25
+	diff == -2.48%		below 3.00%
+sell	price == $95.39
+	prev == $90.94
+	diff == 4.90%		above 3.00%
+hold	price == $94.91
+	prev == $95.39
+	diff == -0.51%		below 3.00%
+hold	price == $95.33
+	prev == $94.91
+	diff == 0.44%		below 3.00%
+buy	price == $90.51
+	prev == $95.33
+	diff == -5.06%		below 3.00%
+sell	price == $96.54
+	prev == $90.51
+	diff == 6.67%		above 3.00%
+buy	price == $92.34
+	prev == $96.54
+	diff == -4.35%		below 3.00%
+hold	price == $94.76
+	prev == $92.34
+	diff == 2.62%		below 3.00%
+buy	price == $88.60
+	prev == $94.76
+	diff == -6.50%		below 3.00%
+hold	price == $87.78
+	prev == $88.60
+	diff == -0.93%		below 3.00%
+sell	price == $90.83
+	prev == $87.78
+	diff == 3.47%		above 3.00%
+hold	price == $92.77
+	prev == $90.83
+	diff == 2.14%		below 3.00%
+hold	price == $92.67
+	prev == $92.77
+	diff == -0.11%		below 3.00%
+hold	price == $90.12
+	prev == $92.67
+	diff == -2.76%		below 3.00%
+hold	price == $90.82
+	prev == $90.12
+	diff == 0.78%		below 3.00%
+buy	price == $86.94
+	prev == $90.82
+	diff == -4.28%		below 3.00%
+hold	price == $86.97
+	prev == $86.94
+	diff == 0.04%		below 3.00%
+hold	price == $86.18
+	prev == $86.97
+	diff == -0.90%		below 3.00%
+buy	price == $80.67
+	prev == $86.18
+	diff == -6.39%		below 3.00%
+hold	price == $82.35
+	prev == $80.67
+	diff == 2.07%		below 3.00%
+sell	price == $86.93
+	prev == $82.35
+	diff == 5.56%		above 3.00%
+buy	price == $82.44
+	prev == $86.93
+	diff == -5.16%		below 3.00%
+buy	price == $77.71
+	prev == $82.44
+	diff == -5.74%		below 3.00%
+buy	price == $71.58
+	prev == $77.71
+	diff == -7.88%		below 3.00%
+buy	price == $69.43
+	prev == $71.58
+	diff == -3.01%		below 3.00%
+sell	price == $72.25
+	prev == $69.43
+	diff == 4.06%		above 3.00%
+hold	price == $71.37
+	prev == $72.25
+	diff == -1.22%		below 3.00%
+buy	price == $67.73
+	prev == $71.37
+	diff == -5.10%		below 3.00%
+sell	price == $72.53
+	prev == $67.73
+	diff == 7.08%		above 3.00%
+buy	price == $68.46
+	prev == $72.53
+	diff == -5.61%		below 3.00%
+sell	price == $80.77
+	prev == $68.46
+	diff == 17.98%		above 3.00%
+hold	price == $81.22
+	prev == $80.77
+	diff == 0.57%		below 3.00%
+hold	price == $82.68
+	prev == $81.22
+	diff == 1.80%		below 3.00%
+hold	price == $81.43
+	prev == $82.68
+	diff == -1.51%		below 3.00%
+buy	price == $73.13
+	prev == $81.43
+	diff == -10.20%		below 3.00%
+buy	price == $68.26
+	prev == $73.13
+	diff == -6.65%		below 3.00%
+sell	price == $72.97
+	prev == $68.26
+	diff == 6.89%		above 3.00%
+hold	price == $72.48
+	prev == $72.97
+	diff == -0.67%		below 3.00%
+sell	price == $77.57
+	prev == $72.48
+	diff == 7.03%		above 3.00%
+sell	price == $81.98
+	prev == $77.57
+	diff == 5.70%		above 3.00%
+hold	price == $80.13
+	prev == $81.98
+	diff == -2.26%		below 3.00%
+hold	price == $80.28
+	prev == $80.13
+	diff == 0.19%		below 3.00%
+hold	price == $79.20
+	prev == $80.28
+	diff == -1.35%		below 3.00%
+hold	price == $80.34
+	prev == $79.20
+	diff == 1.44%		below 3.00%
+buy	price == $76.66
+	prev == $80.34
+	diff == -4.57%		below 3.00%
+hold	price == $78.25
+	prev == $76.66
+	diff == 2.08%		below 3.00%
+hold	price == $80.43
+	prev == $78.25
+	diff == 2.78%		below 3.00%
+hold	price == $81.43
+	prev == $80.43
+	diff == 1.24%		below 3.00%
+buy	price == $77.70
+	prev == $81.43
+	diff == -4.57%		below 3.00%
+hold	price == $79.98
+	prev == $77.70
+	diff == 2.93%		below 3.00%
+buy	price == $77.51
+	prev == $79.98
+	diff == -3.09%		below 3.00%
+hold	price == $76.46
+	prev == $77.51
+	diff == -1.36%		below 3.00%
+hold	price == $77.86
+	prev == $76.46
+	diff == 1.83%		below 3.00%
+hold	price == $77.26
+	prev == $77.86
+	diff == -0.76%		below 3.00%
+hold	price == $76.11
+	prev == $77.26
+	diff == -1.50%		below 3.00%
+sell	price == $80.35
+	prev == $76.11
+	diff == 5.57%		above 3.00%
+hold	price == $78.70
+	prev == $80.35
+	diff == -2.06%		below 3.00%
+hold	price == $79.64
+	prev == $78.70
+	diff == 1.20%		below 3.00%
+hold	price == $81.07
+	prev == $79.64
+	diff == 1.79%		below 3.00%
+buy	price == $78.19
+	prev == $81.07
+	diff == -3.55%		below 3.00%
+hold	price == $78.24
+	prev == $78.19
+	diff == 0.07%		below 3.00%
+sell	price == $86.02
+	prev == $78.24
+	diff == 9.94%		above 3.00%
+hold	price == $86.37
+	prev == $86.02
+	diff == 0.41%		below 3.00%
+hold	price == $87.37
+	prev == $86.37
+	diff == 1.15%		below 3.00%
+hold	price == $87.90
+	prev == $87.37
+	diff == 0.62%		below 3.00%
+hold	price == $87.19
+	prev == $87.90
+	diff == -0.82%		below 3.00%
+hold	price == $87.43
+	prev == $87.19
+	diff == 0.28%		below 3.00%
+buy	price == $84.08
+	prev == $87.43
+	diff == -3.83%		below 3.00%
+sell	price == $89.28
+	prev == $84.08
+	diff == 6.19%		above 3.00%
+buy	price == $85.37
+	prev == $89.28
+	diff == -4.38%		below 3.00%
+sell	price == $91.93
+	prev == $85.37
+	diff == 7.68%		above 3.00%
+sell	price == $96.88
+	prev == $91.93
+	diff == 5.39%		above 3.00%
+hold	price == $95.12
+	prev == $96.88
+	diff == -1.82%		below 3.00%
+hold	price == $95.37
+	prev == $95.12
+	diff == 0.26%		below 3.00%
+buy	price == $92.12
+	prev == $95.37
+	diff == -3.41%		below 3.00%
+hold	price == $92.22
+	prev == $92.12
+	diff == 0.11%		below 3.00%
+buy	price == $87.89
+	prev == $92.22
+	diff == -4.70%		below 3.00%
+hold	price == $85.29
+	prev == $87.89
+	diff == -2.96%		below 3.00%
+sell	price == $90.64
+	prev == $85.29
+	diff == 6.28%		above 3.00%
+hold	price == $92.77
+	prev == $90.64
+	diff == 2.35%		below 3.00%
+hold	price == $95.43
+	prev == $92.77
+	diff == 2.86%		below 3.00%
+sell	price == $101.20
+	prev == $95.43
+	diff == 6.04%		above 3.00%
+sell	price == $104.30
+	prev == $101.20
+	diff == 3.07%		above 3.00%
+hold	price == $102.86
+	prev == $104.30
+	diff == -1.39%		below 3.00%
+hold	price == $102.28
+	prev == $102.86
+	diff == -0.55%		below 3.00%
+hold	price == $102.10
+	prev == $102.28
+	diff == -0.18%		below 3.00%
+buy	price == $98.62
+	prev == $102.10
+	diff == -3.41%		below 3.00%
+sell	price == $101.77
+	prev == $98.62
+	diff == 3.20%		above 3.00%
+hold	price == $104.40
+	prev == $101.77
+	diff == 2.58%		below 3.00%
+hold	price == $105.54
+	prev == $104.40
+	diff == 1.09%		below 3.00%
+hold	price == $103.48
+	prev == $105.54
+	diff == -1.96%		below 3.00%
+hold	price == $102.43
+	prev == $103.48
+	diff == -1.02%		below 3.00%
+buy	price == $95.19
+	prev == $102.43
+	diff == -7.07%		below 3.00%
+hold	price == $93.83
+	prev == $95.19
+	diff == -1.42%		below 3.00%
+sell	price == $101.55
+	prev == $93.83
+	diff == 8.22%		above 3.00%
+hold	price == $103.72
+	prev == $101.55
+	diff == 2.14%		below 3.00%
+hold	price == $102.61
+	prev == $103.72
+	diff == -1.07%		below 3.00%
+hold	price == $102.24
+	prev == $102.61
+	diff == -0.35%		below 3.00%
+hold	price == $103.35
+	prev == $102.24
+	diff == 1.08%		below 3.00%
+buy	price == $97.85
+	prev == $103.35
+	diff == -5.32%		below 3.00%
+sell	price == $101.43
+	prev == $97.85
+	diff == 3.66%		above 3.00%
+hold	price == $98.97
+	prev == $101.43
+	diff == -2.43%		below 3.00%
+hold	price == $99.32
+	prev == $98.97
+	diff == 0.36%		below 3.00%
+hold	price == $98.66
+	prev == $99.32
+	diff == -0.67%		below 3.00%
+hold	price == $97.90
+	prev == $98.66
+	diff == -0.76%		below 3.00%
+hold	price == $97.67
+	prev == $97.90
+	diff == -0.24%		below 3.00%
+sell	price == $103.46
+	prev == $97.67
+	diff == 5.93%		above 3.00%
+buy	price == $93.81
+	prev == $103.46
+	diff == -9.32%		below 3.00%
+sell	price == $99.69
+	prev == $93.81
+	diff == 6.26%		above 3.00%
+hold	price == $99.74
+	prev == $99.69
+	diff == 0.06%		below 3.00%
+hold	price == $101.77
+	prev == $99.74
+	diff == 2.03%		below 3.00%
+hold	price == $99.93
+	prev == $101.77
+	diff == -1.81%		below 3.00%
+buy	price == $94.76
+	prev == $99.93
+	diff == -5.17%		below 3.00%
+sell	price == $98.60
+	prev == $94.76
+	diff == 4.06%		above 3.00%
+hold	price == $100.22
+	prev == $98.60
+	diff == 1.64%		below 3.00%
+hold	price == $102.40
+	prev == $100.22
+	diff == 2.17%		below 3.00%
+buy	price == $97.97
+	prev == $102.40
+	diff == -4.32%		below 3.00%
+sell	price == $104.15
+	prev == $97.97
+	diff == 6.31%		above 3.00%
+hold	price == $103.31
+	prev == $104.15
+	diff == -0.80%		below 3.00%
+hold	price == $104.95
+	prev == $103.31
+	diff == 1.58%		below 3.00%
+hold	price == $105.63
+	prev == $104.95
+	diff == 0.65%		below 3.00%
+hold	price == $106.44
+	prev == $105.63
+	diff == 0.77%		below 3.00%
+hold	price == $107.07
+	prev == $106.44
+	diff == 0.59%		below 3.00%
+sell	price == $112.06
+	prev == $107.07
+	diff == 4.66%		above 3.00%
+hold	price == $113.78
+	prev == $112.06
+	diff == 1.54%		below 3.00%
+hold	price == $111.06
+	prev == $113.78
+	diff == -2.39%		below 3.00%
+buy	price == $106.38
+	prev == $111.06
+	diff == -4.22%		below 3.00%
+sell	price == $115.48
+	prev == $106.38
+	diff == 8.56%		above 3.00%
+hold	price == $118.17
+	prev == $115.48
+	diff == 2.33%		below 3.00%
+hold	price == $118.22
+	prev == $118.17
+	diff == 0.04%		below 3.00%
+buy	price == $112.53
+	prev == $118.22
+	diff == -4.82%		below 3.00%
+hold	price == $110.42
+	prev == $112.53
+	diff == -1.87%		below 3.00%
+hold	price == $107.46
+	prev == $110.42
+	diff == -2.68%		below 3.00%
+hold	price == $108.39
+	prev == $107.46
+	diff == 0.86%		below 3.00%
+hold	price == $106.41
+	prev == $108.39
+	diff == -1.83%		below 3.00%
+sell	price == $111.67
+	prev == $106.41
+	diff == 4.94%		above 3.00%
+sell	price == $116.76
+	prev == $111.67
+	diff == 4.57%		above 3.00%
+hold	price == $117.21
+	prev == $116.76
+	diff == 0.38%		below 3.00%
+sell	price == $121.58
+	prev == $117.21
+	diff == 3.73%		above 3.00%
+buy	price == $117.25
+	prev == $121.58
+	diff == -3.56%		below 3.00%
+hold	price == $117.62
+	prev == $117.25
+	diff == 0.32%		below 3.00%
+hold	price == $116.85
+	prev == $117.62
+	diff == -0.65%		below 3.00%
+hold	price == $119.93
+	prev == $116.85
+	diff == 2.64%		below 3.00%
+hold	price == $120.75
+	prev == $119.93
+	diff == 0.69%		below 3.00%
+hold	price == $119.60
+	prev == $120.75
+	diff == -0.95%		below 3.00%
+hold	price == $122.72
+	prev == $119.60
+	diff == 2.61%		below 3.00%
+hold	price == $119.36
+	prev == $122.72
+	diff == -2.74%		below 3.00%
+hold	price == $118.80
+	prev == $119.36
+	diff == -0.46%		below 3.00%
+hold	price == $120.84
+	prev == $118.80
+	diff == 1.71%		below 3.00%
+hold	price == $123.75
+	prev == $120.84
+	diff == 2.42%		below 3.00%
+buy	price == $118.63
+	prev == $123.75
+	diff == -4.14%		below 3.00%
+hold	price == $118.61
+	prev == $118.63
+	diff == -0.02%		below 3.00%
+hold	price == $117.84
+	prev == $118.61
+	diff == -0.65%		below 3.00%
+sell	price == $122.57
+	prev == $117.84
+	diff == 4.02%		above 3.00%
+sell	price == $126.45
+	prev == $122.57
+	diff == 3.16%		above 3.00%
+hold	price == $126.80
+	prev == $126.45
+	diff == 0.28%		below 3.00%
+hold	price == $128.18
+	prev == $126.80
+	diff == 1.09%		below 3.00%
+hold	price == $128.39
+	prev == $128.18
+	diff == 0.17%		below 3.00%
+buy	price == $118.84
+	prev == $128.39
+	diff == -7.44%		below 3.00%
+hold	price == $116.03
+	prev == $118.84
+	diff == -2.36%		below 3.00%
+hold	price == $115.79
+	prev == $116.03
+	diff == -0.20%		below 3.00%
+hold	price == $116.63
+	prev == $115.79
+	diff == 0.72%		below 3.00%
+hold	price == $115.97
+	prev == $116.63
+	diff == -0.57%		below 3.00%
+buy	price == $110.58
+	prev == $115.97
+	diff == -4.64%		below 3.00%
+hold	price == $108.15
+	prev == $110.58
+	diff == -2.20%		below 3.00%
+sell	price == $113.51
+	prev == $108.15
+	diff == 4.96%		above 3.00%
+sell	price == $125.76
+	prev == $113.51
+	diff == 10.80%		above 3.00%
+hold	price == $122.63
+	prev == $125.76
+	diff == -2.49%		below 3.00%
+hold	price == $122.31
+	prev == $122.63
+	diff == -0.26%		below 3.00%
+hold	price == $121.22
+	prev == $122.31
+	diff == -0.90%		below 3.00%
+hold	price == $124.18
+	prev == $121.22
+	diff == 2.45%		below 3.00%
+hold	price == $123.04
+	prev == $124.18
+	diff == -0.92%		below 3.00%
+sell	price == $130.81
+	prev == $123.04
+	diff == 6.32%		above 3.00%
+hold	price == $134.25
+	prev == $130.81
+	diff == 2.63%		below 3.00%
+hold	price == $132.84
+	prev == $134.25
+	diff == -1.05%		below 3.00%
+hold	price == $130.30
+	prev == $132.84
+	diff == -1.91%		below 3.00%
+hold	price == $130.73
+	prev == $130.30
+	diff == 0.32%		below 3.00%
+sell	price == $135.12
+	prev == $130.73
+	diff == 3.36%		above 3.00%
+hold	price == $132.86
+	prev == $135.12
+	diff == -1.68%		below 3.00%
+hold	price == $132.05
+	prev == $132.86
+	diff == -0.61%		below 3.00%
+hold	price == $130.10
+	prev == $132.05
+	diff == -1.48%		below 3.00%
+hold	price == $127.54
+	prev == $130.10
+	diff == -1.97%		below 3.00%
+hold	price == $129.38
+	prev == $127.54
+	diff == 1.45%		below 3.00%
+hold	price == $129.83
+	prev == $129.38
+	diff == 0.35%		below 3.00%
+hold	price == $132.37
+	prev == $129.83
+	diff == 1.95%		below 3.00%
+sell	price == $137.86
+	prev == $132.37
+	diff == 4.15%		above 3.00%
+hold	price == $140.44
+	prev == $137.86
+	diff == 1.87%		below 3.00%
+hold	price == $136.73
+	prev == $140.44
+	diff == -2.64%		below 3.00%
+hold	price == $137.27
+	prev == $136.73
+	diff == 0.40%		below 3.00%
+hold	price == $140.49
+	prev == $137.27
+	diff == 2.34%		below 3.00%
+hold	price == $142.00
+	prev == $140.49
+	diff == 1.08%		below 3.00%
+hold	price == $142.66
+	prev == $142.00
+	diff == 0.46%		below 3.00%
+hold	price == $142.06
+	prev == $142.66
+	diff == -0.42%		below 3.00%
+hold	price == $138.95
+	prev == $142.06
+	diff == -2.19%		below 3.00%
+hold	price == $141.26
+	prev == $138.95
+	diff == 1.66%		below 3.00%
+hold	price == $143.80
+	prev == $141.26
+	diff == 1.80%		below 3.00%
+hold	price == $143.90
+	prev == $143.80
+	diff == 0.07%		below 3.00%
+hold	price == $145.59
+	prev == $143.90
+	diff == 1.18%		below 3.00%
+sell	price == $150.87
+	prev == $145.59
+	diff == 3.62%		above 3.00%
+hold	price == $148.47
+	prev == $150.87
+	diff == -1.59%		below 3.00%
+hold	price == $150.36
+	prev == $148.47
+	diff == 1.27%		below 3.00%
+hold	price == $151.27
+	prev == $150.36
+	diff == 0.61%		below 3.00%
+hold	price == $149.60
+	prev == $151.27
+	diff == -1.11%		below 3.00%
+buy	price == $143.21
+	prev == $149.60
+	diff == -4.27%		below 3.00%
+hold	price == $144.70
+	prev == $143.21
+	diff == 1.04%		below 3.00%
+hold	price == $143.53
+	prev == $144.70
+	diff == -0.81%		below 3.00%
+hold	price == $143.88
+	prev == $143.53
+	diff == 0.24%		below 3.00%
+sell	price == $149.54
+	prev == $143.88
+	diff == 3.94%		above 3.00%
+hold	price == $147.58
+	prev == $149.54
+	diff == -1.31%		below 3.00%
+hold	price == $149.55
+	prev == $147.58
+	diff == 1.33%		below 3.00%
+hold	price == $153.62
+	prev == $149.55
+	diff == 2.72%		below 3.00%
+buy	price == $148.97
+	prev == $153.62
+	diff == -3.02%		below 3.00%
+hold	price == $153.06
+	prev == $148.97
+	diff == 2.75%		below 3.00%
+buy	price == $147.29
+	prev == $153.06
+	diff == -3.77%		below 3.00%
+buy	price == $140.88
+	prev == $147.29
+	diff == -4.35%		below 3.00%
+hold	price == $141.56
+	prev == $140.88
+	diff == 0.48%		below 3.00%
+hold	price == $140.80
+	prev == $141.56
+	diff == -0.53%		below 3.00%
+hold	price == $140.05
+	prev == $140.80
+	diff == -0.53%		below 3.00%
+hold	price == $140.72
+	prev == $140.05
+	diff == 0.48%		below 3.00%
+buy	price == $135.84
+	prev == $140.72
+	diff == -3.47%		below 3.00%
+hold	price == $137.03
+	prev == $135.84
+	diff == 0.88%		below 3.00%
+buy	price == $132.80
+	prev == $137.03
+	diff == -3.09%		below 3.00%
+hold	price == $135.83
+	prev == $132.80
+	diff == 2.28%		below 3.00%
+hold	price == $135.34
+	prev == $135.83
+	diff == -0.36%		below 3.00%
+hold	price == $136.73
+	prev == $135.34
+	diff == 1.03%		below 3.00%
+sell	price == $142.00
+	prev == $136.73
+	diff == 3.85%		above 3.00%
+hold	price == $143.01
+	prev == $142.00
+	diff == 0.72%		below 3.00%
+hold	price == $145.68
+	prev == $143.01
+	diff == 1.86%		below 3.00%
+sell	price == $150.33
+	prev == $145.68
+	diff == 3.20%		above 3.00%
+hold	price == $150.44
+	prev == $150.33
+	diff == 0.07%		below 3.00%
+hold	price == $154.36
+	prev == $150.44
+	diff == 2.61%		below 3.00%
+hold	price == $154.04
+	prev == $154.36
+	diff == -0.21%		below 3.00%
+hold	price == $154.19
+	prev == $154.04
+	diff == 0.10%		below 3.00%
+buy	price == $147.85
+	prev == $154.19
+	diff == -4.11%		below 3.00%
+hold	price == $150.57
+	prev == $147.85
+	diff == 1.84%		below 3.00%
+hold	price == $153.02
+	prev == $150.57
+	diff == 1.63%		below 3.00%
+hold	price == $153.00
+	prev == $153.02
+	diff == -0.01%		below 3.00%
+hold	price == $153.21
+	prev == $153.00
+	diff == 0.14%		below 3.00%
+hold	price == $151.59
+	prev == $153.21
+	diff == -1.06%		below 3.00%
+hold	price == $155.65
+	prev == $151.59
+	diff == 2.68%		below 3.00%
+hold	price == $156.68
+	prev == $155.65
+	diff == 0.66%		below 3.00%
+hold	price == $156.31
+	prev == $156.68
+	diff == -0.24%		below 3.00%
+hold	price == $158.71
+	prev == $156.31
+	diff == 1.54%		below 3.00%
+hold	price == $157.64
+	prev == $158.71
+	diff == -0.68%		below 3.00%
+hold	price == $160.46
+	prev == $157.64
+	diff == 1.79%		below 3.00%
+hold	price == $159.43
+	prev == $160.46
+	diff == -0.64%		below 3.00%
+hold	price == $162.38
+	prev == $159.43
+	diff == 1.85%		below 3.00%
+hold	price == $163.21
+	prev == $162.38
+	diff == 0.51%		below 3.00%
+hold	price == $166.75
+	prev == $163.21
+	diff == 2.17%		below 3.00%
+hold	price == $168.31
+	prev == $166.75
+	diff == 0.93%		below 3.00%
+hold	price == $164.28
+	prev == $168.31
+	diff == -2.40%		below 3.00%
+buy	price == $158.99
+	prev == $164.28
+	diff == -3.22%		below 3.00%
+hold	price == $158.72
+	prev == $158.99
+	diff == -0.17%		below 3.00%
+hold	price == $160.67
+	prev == $158.72
+	diff == 1.23%		below 3.00%
+hold	price == $159.49
+	prev == $160.67
+	diff == -0.74%		below 3.00%
+buy	price == $152.90
+	prev == $159.49
+	diff == -4.13%		below 3.00%
+hold	price == $154.09
+	prev == $152.90
+	diff == 0.78%		below 3.00%
+sell	price == $160.70
+	prev == $154.09
+	diff == 4.29%		above 3.00%
+hold	price == $160.29
+	prev == $160.70
+	diff == -0.26%		below 3.00%
+hold	price == $159.50
+	prev == $160.29
+	diff == -0.49%		below 3.00%
+sell	price == $164.60
+	prev == $159.50
+	diff == 3.20%		above 3.00%
+hold	price == $160.96
+	prev == $164.60
+	diff == -2.21%		below 3.00%
+hold	price == $158.29
+	prev == $160.96
+	diff == -1.66%		below 3.00%
+sell	price == $167.18
+	prev == $158.29
+	diff == 5.61%		above 3.00%
+hold	price == $166.77
+	prev == $167.18
+	diff == -0.24%		below 3.00%
+buy	price == $159.07
+	prev == $166.77
+	diff == -4.62%		below 3.00%
+buy	price == $153.29
+	prev == $159.07
+	diff == -3.63%		below 3.00%
+hold	price == $152.55
+	prev == $153.29
+	diff == -0.49%		below 3.00%
+hold	price == $152.13
+	prev == $152.55
+	diff == -0.28%		below 3.00%
+hold	price == $154.69
+	prev == $152.13
+	diff == 1.69%		below 3.00%
+hold	price == $152.15
+	prev == $154.69
+	diff == -1.64%		below 3.00%
+hold	price == $153.37
+	prev == $152.15
+	diff == 0.80%		below 3.00%
+sell	price == $160.94
+	prev == $153.37
+	diff == 4.94%		above 3.00%
+hold	price == $160.78
+	prev == $160.94
+	diff == -0.10%		below 3.00%
+hold	price == $164.65
+	prev == $160.78
+	diff == 2.40%		below 3.00%
+hold	price == $164.76
+	prev == $164.65
+	diff == 0.07%		below 3.00%
+hold	price == $167.69
+	prev == $164.76
+	diff == 1.78%		below 3.00%
+hold	price == $167.95
+	prev == $167.69
+	diff == 0.16%		below 3.00%
+hold	price == $168.72
+	prev == $167.95
+	diff == 0.46%		below 3.00%
+hold	price == $168.29
+	prev == $168.72
+	diff == -0.25%		below 3.00%
+hold	price == $171.44
+	prev == $168.29
+	diff == 1.87%		below 3.00%
+hold	price == $176.57
+	prev == $171.44
+	diff == 2.99%		below 3.00%
+hold	price == $179.15
+	prev == $176.57
+	diff == 1.46%		below 3.00%
+buy	price == $171.81
+	prev == $179.15
+	diff == -4.10%		below 3.00%
+hold	price == $172.80
+	prev == $171.81
+	diff == 0.58%		below 3.00%
+hold	price == $174.03
+	prev == $172.80
+	diff == 0.71%		below 3.00%
+hold	price == $171.42
+	prev == $174.03
+	diff == -1.50%		below 3.00%
+buy	price == $165.69
+	prev == $171.42
+	diff == -3.34%		below 3.00%
+hold	price == $169.01
+	prev == $165.69
+	diff == 2.00%		below 3.00%
+hold	price == $171.17
+	prev == $169.01
+	diff == 1.28%		below 3.00%
+hold	price == $175.26
+	prev == $171.17
+	diff == 2.39%		below 3.00%
+hold	price == $172.89
+	prev == $175.26
+	diff == -1.35%		below 3.00%
+buy	price == $165.35
+	prev == $172.89
+	diff == -4.36%		below 3.00%
+hold	price == $162.57
+	prev == $165.35
+	diff == -1.68%		below 3.00%
+hold	price == $161.00
+	prev == $162.57
+	diff == -0.97%		below 3.00%
+hold	price == $159.44
+	prev == $161.00
+	diff == -0.97%		below 3.00%
+hold	price == $163.11
+	prev == $159.44
+	diff == 2.30%		below 3.00%
+hold	price == $163.09
+	prev == $163.11
+	diff == -0.01%		below 3.00%
+buy	price == $157.30
+	prev == $163.09
+	diff == -3.55%		below 3.00%
+hold	price == $155.28
+	prev == $157.30
+	diff == -1.29%		below 3.00%
+hold	price == $152.29
+	prev == $155.28
+	diff == -1.92%		below 3.00%
+hold	price == $153.78
+	prev == $152.29
+	diff == 0.98%		below 3.00%
+hold	price == $155.08
+	prev == $153.78
+	diff == 0.84%		below 3.00%
+buy	price == $148.07
+	prev == $155.08
+	diff == -4.52%		below 3.00%
+hold	price == $147.57
+	prev == $148.07
+	diff == -0.34%		below 3.00%
+hold	price == $146.27
+	prev == $147.57
+	diff == -0.88%		below 3.00%
+hold	price == $149.63
+	prev == $146.27
+	diff == 2.30%		below 3.00%
+hold	price == $151.59
+	prev == $149.63
+	diff == 1.31%		below 3.00%
+sell	price == $160.54
+	prev == $151.59
+	diff == 5.91%		above 3.00%
+hold	price == $164.60
+	prev == $160.54
+	diff == 2.53%		below 3.00%
+buy	price == $158.07
+	prev == $164.60
+	diff == -3.97%		below 3.00%
+hold	price == $156.13
+	prev == $158.07
+	diff == -1.23%		below 3.00%
+hold	price == $153.92
+	prev == $156.13
+	diff == -1.42%		below 3.00%
+hold	price == $151.90
+	prev == $153.92
+	diff == -1.31%		below 3.00%
+hold	price == $149.38
+	prev == $151.90
+	diff == -1.66%		below 3.00%
+sell	price == $154.65
+	prev == $149.38
+	diff == 3.52%		above 3.00%
+hold	price == $154.41
+	prev == $154.65
+	diff == -0.16%		below 3.00%
+hold	price == $158.24
+	prev == $154.41
+	diff == 2.48%		below 3.00%
+hold	price == $162.28
+	prev == $158.24
+	diff == 2.56%		below 3.00%
+hold	price == $162.86
+	prev == $162.28
+	diff == 0.36%		below 3.00%
+hold	price == $160.12
+	prev == $162.86
+	diff == -1.68%		below 3.00%
+hold	price == $157.32
+	prev == $160.12
+	diff == -1.75%		below 3.00%
+buy	price == $148.42
+	prev == $157.32
+	diff == -5.66%		below 3.00%
+hold	price == $146.68
+	prev == $148.42
+	diff == -1.18%		below 3.00%
+hold	price == $144.46
+	prev == $146.68
+	diff == -1.51%		below 3.00%
+hold	price == $141.62
+	prev == $144.46
+	diff == -1.96%		below 3.00%
+hold	price == $142.63
+	prev == $141.62
+	diff == 0.71%		below 3.00%
+hold	price == $140.01
+	prev == $142.63
+	diff == -1.84%		below 3.00%
+hold	price == $137.62
+	prev == $140.01
+	diff == -1.71%		below 3.00%
+hold	price == $136.65
+	prev == $137.62
+	diff == -0.70%		below 3.00%
+buy	price == $129.64
+	prev == $136.65
+	diff == -5.13%		below 3.00%
+sell	price == $134.76
+	prev == $129.64
+	diff == 3.95%		above 3.00%
+hold	price == $134.27
+	prev == $134.76
+	diff == -0.37%		below 3.00%
+hold	price == $136.61
+	prev == $134.27
+	diff == 1.74%		below 3.00%
+hold	price == $138.02
+	prev == $136.61
+	diff == 1.03%		below 3.00%
+hold	price == $139.22
+	prev == $138.02
+	diff == 0.87%		below 3.00%
+hold	price == $140.25
+	prev == $139.22
+	diff == 0.74%		below 3.00%
+hold	price == $139.20
+	prev == $140.25
+	diff == -0.75%		below 3.00%
+sell	price == $143.73
+	prev == $139.20
+	diff == 3.25%		above 3.00%
+hold	price == $141.75
+	prev == $143.73
+	diff == -1.38%		below 3.00%
+buy	price == $137.20
+	prev == $141.75
+	diff == -3.21%		below 3.00%
+hold	price == $133.75
+	prev == $137.20
+	diff == -2.52%		below 3.00%
+hold	price == $136.54
+	prev == $133.75
+	diff == 2.09%		below 3.00%
+hold	price == $140.03
+	prev == $136.54
+	diff == 2.56%		below 3.00%
+sell	price == $144.92
+	prev == $140.03
+	diff == 3.49%		above 3.00%
+hold	price == $147.02
+	prev == $144.92
+	diff == 1.45%		below 3.00%
+hold	price == $148.22
+	prev == $147.02
+	diff == 0.81%		below 3.00%
+hold	price == $151.30
+	prev == $148.22
+	diff == 2.08%		below 3.00%
+buy	price == $146.65
+	prev == $151.30
+	diff == -3.07%		below 3.00%
+hold	price == $145.11
+	prev == $146.65
+	diff == -1.05%		below 3.00%
+hold	price == $146.38
+	prev == $145.11
+	diff == 0.88%		below 3.00%
+hold	price == $145.58
+	prev == $146.38
+	diff == -0.55%		below 3.00%
+hold	price == $145.98
+	prev == $145.58
+	diff == 0.27%		below 3.00%
+hold	price == $148.84
+	prev == $145.98
+	diff == 1.96%		below 3.00%
+buy	price == $142.95
+	prev == $148.84
+	diff == -3.96%		below 3.00%
+hold	price == $142.44
+	prev == $142.95
+	diff == -0.36%		below 3.00%
+hold	price == $140.94
+	prev == $142.44
+	diff == -1.05%		below 3.00%
+hold	price == $144.95
+	prev == $140.94
+	diff == 2.84%		below 3.00%
+hold	price == $148.78
+	prev == $144.95
+	diff == 2.64%		below 3.00%
+hold	price == $146.87
+	prev == $148.78
+	diff == -1.28%		below 3.00%
+hold	price == $147.27
+	prev == $146.87
+	diff == 0.27%		below 3.00%
+hold	price == $146.17
+	prev == $147.27
+	diff == -0.75%		below 3.00%
+buy	price == $139.08
+	prev == $146.17
+	diff == -4.85%		below 3.00%
+hold	price == $140.10
+	prev == $139.08
+	diff == 0.74%		below 3.00%
+hold	price == $143.88
+	prev == $140.10
+	diff == 2.70%		below 3.00%
+hold	price == $142.44
+	prev == $143.88
+	diff == -1.00%		below 3.00%
+hold	price == $142.40
+	prev == $142.44
+	diff == -0.03%		below 3.00%
+hold	price == $143.81
+	prev == $142.40
+	diff == 0.99%		below 3.00%
+hold	price == $140.09
+	prev == $143.81
+	diff == -2.59%		below 3.00%
+hold	price == $140.14
+	prev == $140.09
+	diff == 0.03%		below 3.00%
+sell	price == $148.57
+	prev == $140.14
+	diff == 6.02%		above 3.00%
+buy	price == $142.14
+	prev == $148.57
+	diff == -4.33%		below 3.00%
+buy	price == $134.07
+	prev == $142.14
+	diff == -5.67%		below 3.00%
+hold	price == $131.87
+	prev == $134.07
+	diff == -1.65%		below 3.00%
+sell	price == $136.74
+	prev == $131.87
+	diff == 3.70%		above 3.00%
+hold	price == $136.36
+	prev == $136.74
+	diff == -0.28%		below 3.00%
+buy	price == $131.52
+	prev == $136.36
+	diff == -3.55%		below 3.00%
+hold	price == $129.10
+	prev == $131.52
+	diff == -1.84%		below 3.00%
+buy	price == $124.91
+	prev == $129.10
+	diff == -3.25%		below 3.00%
+hold	price == $124.50
+	prev == $124.91
+	diff == -0.33%		below 3.00%
+hold	price == $127.28
+	prev == $124.50
+	diff == 2.24%		below 3.00%
+buy	price == $123.01
+	prev == $127.28
+	diff == -3.36%		below 3.00%
+buy	price == $118.80
+	prev == $123.01
+	diff == -3.42%		below 3.00%
+buy	price == $114.38
+	prev == $118.80
+	diff == -3.72%		below 3.00%
+buy	price == $108.50
+	prev == $114.38
+	diff == -5.14%		below 3.00%
+hold	price == $110.73
+	prev == $108.50
+	diff == 2.05%		below 3.00%
+hold	price == $111.33
+	prev == $110.73
+	diff == 0.54%		below 3.00%
+sell	price == $115.79
+	prev == $111.33
+	diff == 4.00%		above 3.00%
+hold	price == $114.02
+	prev == $115.79
+	diff == -1.52%		below 3.00%
+buy	price == $110.57
+	prev == $114.02
+	diff == -3.03%		below 3.00%
+hold	price == $109.88
+	prev == $110.57
+	diff == -0.63%		below 3.00%
+sell	price == $114.25
+	prev == $109.88
+	diff == 3.98%		above 3.00%
+buy	price == $110.55
+	prev == $114.25
+	diff == -3.24%		below 3.00%
+buy	price == $106.21
+	prev == $110.55
+	diff == -3.93%		below 3.00%
+hold	price == $103.98
+	prev == $106.21
+	diff == -2.10%		below 3.00%
+sell	price == $110.32
+	prev == $103.98
+	diff == 6.10%		above 3.00%
+buy	price == $106.93
+	prev == $110.32
+	diff == -3.07%		below 3.00%
+hold	price == $105.97
+	prev == $106.93
+	diff == -0.90%		below 3.00%
+buy	price == $102.65
+	prev == $105.97
+	diff == -3.13%		below 3.00%
+buy	price == $97.90
+	prev == $102.65
+	diff == -4.63%		below 3.00%
+hold	price == $99.74
+	prev == $97.90
+	diff == 1.88%		below 3.00%
+buy	price == $95.29
+	prev == $99.74
+	diff == -4.46%		below 3.00%
+hold	price == $97.08
+	prev == $95.29
+	diff == 1.87%		below 3.00%
+hold	price == $95.97
+	prev == $97.08
+	diff == -1.14%		below 3.00%
+hold	price == $97.69
+	prev == $95.97
+	diff == 1.79%		below 3.00%
+buy	price == $93.56
+	prev == $97.69
+	diff == -4.23%		below 3.00%
+hold	price == $96.11
+	prev == $93.56
+	diff == 2.73%		below 3.00%
+sell	price == $100.00
+	prev == $96.11
+	diff == 4.05%		above 3.00%
+hold	price == $98.24
+	prev == $100.00
+	diff == -1.76%		below 3.00%
+buy	price == $92.87
+	prev == $98.24
+	diff == -5.47%		below 3.00%
+hold	price == $94.71
+	prev == $92.87
+	diff == 1.98%		below 3.00%
+sell	price == $98.99
+	prev == $94.71
+	diff == 4.52%		above 3.00%
+sell	price == $102.58
+	prev == $98.99
+	diff == 3.63%		above 3.00%
+sell	price == $107.97
+	prev == $102.58
+	diff == 5.25%		above 3.00%
+hold	price == $110.75
+	prev == $107.97
+	diff == 2.57%		below 3.00%
+hold	price == $109.66
+	prev == $110.75
+	diff == -0.98%		below 3.00%
+hold	price == $108.27
+	prev == $109.66
+	diff == -1.26%		below 3.00%
+hold	price == $106.51
+	prev == $108.27
+	diff == -1.63%		below 3.00%
+sell	price == $110.82
+	prev == $106.51
+	diff == 4.05%		above 3.00%
+buy	price == $105.83
+	prev == $110.82
+	diff == -4.51%		below 3.00%
+hold	price == $108.37
+	prev == $105.83
+	diff == 2.40%		below 3.00%
+hold	price == $107.93
+	prev == $108.37
+	diff == -0.40%		below 3.00%
+hold	price == $105.37
+	prev == $107.93
+	diff == -2.38%		below 3.00%
+hold	price == $107.19
+	prev == $105.37
+	diff == 1.73%		below 3.00%
+hold	price == $108.18
+	prev == $107.19
+	diff == 0.92%		below 3.00%
+sell	price == $115.11
+	prev == $108.18
+	diff == 6.41%		above 3.00%
+buy	price == $110.12
+	prev == $115.11
+	diff == -4.33%		below 3.00%
+buy	price == $105.55
+	prev == $110.12
+	diff == -4.15%		below 3.00%
+hold	price == $103.09
+	prev == $105.55
+	diff == -2.33%		below 3.00%
+sell	price == $108.50
+	prev == $103.09
+	diff == 5.24%		above 3.00%
+hold	price == $111.73
+	prev == $108.50
+	diff == 2.98%		below 3.00%
+buy	price == $105.64
+	prev == $111.73
+	diff == -5.45%		below 3.00%
+hold	price == $103.67
+	prev == $105.64
+	diff == -1.86%		below 3.00%
+hold	price == $103.30
+	prev == $103.67
+	diff == -0.36%		below 3.00%
+hold	price == $101.36
+	prev == $103.30
+	diff == -1.88%		below 3.00%
+buy	price == $96.09
+	prev == $101.36
+	diff == -5.20%		below 3.00%
+hold	price == $93.73
+	prev == $96.09
+	diff == -2.45%		below 3.00%
+sell	price == $96.76
+	prev == $93.73
+	diff == 3.23%		above 3.00%
+hold	price == $97.02
+	prev == $96.76
+	diff == 0.27%		below 3.00%
+hold	price == $96.74
+	prev == $97.02
+	diff == -0.29%		below 3.00%
+hold	price == $95.70
+	prev == $96.74
+	diff == -1.08%		below 3.00%
+buy	price == $90.54
+	prev == $95.70
+	diff == -5.39%		below 3.00%
+buy	price == $80.90
+	prev == $90.54
+	diff == -10.66%		below 3.00%
+hold	price == $83.21
+	prev == $80.90
+	diff == 2.86%		below 3.00%
+buy	price == $76.12
+	prev == $83.21
+	diff == -8.52%		below 3.00%
+hold	price == $75.19
+	prev == $76.12
+	diff == -1.23%		below 3.00%
+buy	price == $71.27
+	prev == $75.19
+	diff == -5.20%		below 3.00%
+sell	price == $76.08
+	prev == $71.27
+	diff == 6.75%		above 3.00%
+hold	price == $78.07
+	prev == $76.08
+	diff == 2.61%		below 3.00%
+hold	price == $77.55
+	prev == $78.07
+	diff == -0.67%		below 3.00%
+buy	price == $72.81
+	prev == $77.55
+	diff == -6.10%		below 3.00%
+buy	price == $70.06
+	prev == $72.81
+	diff == -3.78%		below 3.00%
+buy	price == $67.70
+	prev == $70.06
+	diff == -3.38%		below 3.00%
+buy	price == $60.50
+	prev == $67.70
+	diff == -10.63%		below 3.00%
+hold	price == $61.79
+	prev == $60.50
+	diff == 2.13%		below 3.00%
+sell	price == $71.04
+	prev == $61.79
+	diff == 14.97%		above 3.00%
+buy	price == $67.48
+	prev == $71.04
+	diff == -5.01%		below 3.00%
+sell	price == $71.23
+	prev == $67.48
+	diff == 5.55%		above 3.00%
+hold	price == $70.62
+	prev == $71.23
+	diff == -0.84%		below 3.00%
+buy	price == $65.12
+	prev == $70.62
+	diff == -7.79%		below 3.00%
+sell	price == $70.59
+	prev == $65.12
+	diff == 8.40%		above 3.00%
+buy	price == $67.62
+	prev == $70.59
+	diff == -4.22%		below 3.00%
+sell	price == $70.36
+	prev == $67.62
+	diff == 4.07%		above 3.00%
+hold	price == $70.02
+	prev == $70.36
+	diff == -0.49%		below 3.00%
+hold	price == $69.42
+	prev == $70.02
+	diff == -0.86%		below 3.00%
+hold	price == $67.65
+	prev == $69.42
+	diff == -2.56%		below 3.00%
+hold	price == $67.90
+	prev == $67.65
+	diff == 0.37%		below 3.00%
+hold	price == $66.24
+	prev == $67.90
+	diff == -2.44%		below 3.00%
+buy	price == $64.02
+	prev == $66.24
+	diff == -3.35%		below 3.00%
+hold	price == $64.33
+	prev == $64.02
+	diff == 0.48%		below 3.00%
+buy	price == $60.36
+	prev == $64.33
+	diff == -6.16%		below 3.00%
+sell	price == $66.08
+	prev == $60.36
+	diff == 9.48%		above 3.00%
+buy	price == $60.81
+	prev == $66.08
+	diff == -7.98%		below 3.00%
+hold	price == $62.30
+	prev == $60.81
+	diff == 2.44%		below 3.00%
+hold	price == $62.12
+	prev == $62.30
+	diff == -0.28%		below 3.00%
+sell	price == $64.17
+	prev == $62.12
+	diff == 3.29%		above 3.00%
+hold	price == $65.60
+	prev == $64.17
+	diff == 2.23%		below 3.00%
+hold	price == $64.23
+	prev == $65.60
+	diff == -2.09%		below 3.00%
+sell	price == $66.18
+	prev == $64.23
+	diff == 3.04%		above 3.00%
+hold	price == $64.51
+	prev == $66.18
+	diff == -2.52%		below 3.00%
+sell	price == $70.85
+	prev == $64.51
+	diff == 9.82%		above 3.00%
+sell	price == $78.80
+	prev == $70.85
+	diff == 11.22%		above 3.00%
+buy	price == $73.08
+	prev == $78.80
+	diff == -7.25%		below 3.00%
+sell	price == $79.16
+	prev == $73.08
+	diff == 8.32%		above 3.00%
+hold	price == $81.17
+	prev == $79.16
+	diff == 2.53%		below 3.00%
+hold	price == $79.57
+	prev == $81.17
+	diff == -1.97%		below 3.00%
+hold	price == $78.75
+	prev == $79.57
+	diff == -1.03%		below 3.00%
+sell	price == $84.73
+	prev == $78.75
+	diff == 7.59%		above 3.00%
+hold	price == $86.48
+	prev == $84.73
+	diff == 2.07%		below 3.00%
+sell	price == $89.79
+	prev == $86.48
+	diff == 3.83%		above 3.00%
+hold	price == $90.71
+	prev == $89.79
+	diff == 1.02%		below 3.00%
+hold	price == $88.52
+	prev == $90.71
+	diff == -2.42%		below 3.00%
+sell	price == $97.09
+	prev == $88.52
+	diff == 9.68%		above 3.00%
+sell	price == $100.04
+	prev == $97.09
+	diff == 3.04%		above 3.00%
+hold	price == $102.49
+	prev == $100.04
+	diff == 2.45%		below 3.00%
+hold	price == $105.50
+	prev == $102.49
+	diff == 2.94%		below 3.00%
+hold	price == $107.48
+	prev == $105.50
+	diff == 1.87%		below 3.00%
+sell	price == $112.86
+	prev == $107.48
+	diff == 5.01%		above 3.00%
+hold	price == $110.13
+	prev == $112.86
+	diff == -2.42%		below 3.00%
+hold	price == $112.39
+	prev == $110.13
+	diff == 2.05%		below 3.00%
+sell	price == $116.14
+	prev == $112.39
+	diff == 3.34%		above 3.00%
+hold	price == $115.96
+	prev == $116.14
+	diff == -0.15%		below 3.00%
+hold	price == $114.86
+	prev == $115.96
+	diff == -0.95%		below 3.00%
+hold	price == $114.36
+	prev == $114.86
+	diff == -0.43%		below 3.00%
+hold	price == $113.45
+	prev == $114.36
+	diff == -0.79%		below 3.00%
+hold	price == $116.21
+	prev == $113.45
+	diff == 2.43%		below 3.00%
+hold	price == $118.48
+	prev == $116.21
+	diff == 1.96%		below 3.00%
+hold	price == $117.60
+	prev == $118.48
+	diff == -0.75%		below 3.00%
+hold	price == $116.48
+	prev == $117.60
+	diff == -0.95%		below 3.00%
+hold	price == $113.94
+	prev == $116.48
+	diff == -2.18%		below 3.00%
+hold	price == $110.55
+	prev == $113.94
+	diff == -2.97%		below 3.00%
+sell	price == $114.58
+	prev == $110.55
+	diff == 3.64%		above 3.00%
+sell	price == $118.58
+	prev == $114.58
+	diff == 3.50%		above 3.00%
+hold	price == $117.61
+	prev == $118.58
+	diff == -0.82%		below 3.00%
+hold	price == $118.67
+	prev == $117.61
+	diff == 0.91%		below 3.00%
+hold	price == $117.79
+	prev == $118.67
+	diff == -0.75%		below 3.00%
+sell	price == $123.15
+	prev == $117.79
+	diff == 4.55%		above 3.00%
+hold	price == $121.47
+	prev == $123.15
+	diff == -1.36%		below 3.00%
+hold	price == $118.52
+	prev == $121.47
+	diff == -2.43%		below 3.00%
+hold	price == $115.66
+	prev == $118.52
+	diff == -2.41%		below 3.00%
+hold	price == $115.01
+	prev == $115.66
+	diff == -0.56%		below 3.00%
+sell	price == $119.34
+	prev == $115.01
+	diff == 3.77%		above 3.00%
+hold	price == $116.98
+	prev == $119.34
+	diff == -1.98%		below 3.00%
+hold	price == $119.99
+	prev == $116.98
+	diff == 2.58%		below 3.00%
+sell	price == $125.13
+	prev == $119.99
+	diff == 4.28%		above 3.00%
+hold	price == $127.42
+	prev == $125.13
+	diff == 1.83%		below 3.00%
+hold	price == $125.12
+	prev == $127.42
+	diff == -1.81%		below 3.00%
+hold	price == $124.65
+	prev == $125.12
+	diff == -0.38%		below 3.00%
+hold	price == $126.00
+	prev == $124.65
+	diff == 1.08%		below 3.00%
+sell	price == $130.01
+	prev == $126.00
+	diff == 3.18%		above 3.00%
+hold	price == $132.54
+	prev == $130.01
+	diff == 1.95%		below 3.00%
+hold	price == $129.25
+	prev == $132.54
+	diff == -2.48%		below 3.00%
+hold	price == $132.91
+	prev == $129.25
+	diff == 2.83%		below 3.00%
+hold	price == $132.99
+	prev == $132.91
+	diff == 0.05%		below 3.00%
+buy	price == $126.52
+	prev == $132.99
+	diff == -4.86%		below 3.00%
+hold	price == $127.18
+	prev == $126.52
+	diff == 0.53%		below 3.00%
+sell	price == $132.14
+	prev == $127.18
+	diff == 3.90%		above 3.00%
+hold	price == $130.55
+	prev == $132.14
+	diff == -1.20%		below 3.00%
+buy	price == $124.52
+	prev == $130.55
+	diff == -4.62%		below 3.00%
+hold	price == $125.43
+	prev == $124.52
+	diff == 0.72%		below 3.00%
+buy	price == $118.05
+	prev == $125.43
+	diff == -5.88%		below 3.00%
+hold	price == $117.71
+	prev == $118.05
+	diff == -0.29%		below 3.00%
+hold	price == $120.69
+	prev == $117.71
+	diff == 2.53%		below 3.00%
+hold	price == $121.78
+	prev == $120.69
+	diff == 0.90%		below 3.00%
+hold	price == $124.26
+	prev == $121.78
+	diff == 2.04%		below 3.00%
+hold	price == $125.47
+	prev == $124.26
+	diff == 0.97%		below 3.00%
+hold	price == $125.38
+	prev == $125.47
+	diff == -0.07%		below 3.00%
+hold	price == $127.22
+	prev == $125.38
+	diff == 1.47%		below 3.00%
+hold	price == $130.51
+	prev == $127.22
+	diff == 2.58%		below 3.00%
+sell	price == $135.32
+	prev == $130.51
+	diff == 3.69%		above 3.00%
+hold	price == $134.83
+	prev == $135.32
+	diff == -0.36%		below 3.00%
+hold	price == $138.13
+	prev == $134.83
+	diff == 2.44%		below 3.00%
+hold	price == $140.96
+	prev == $138.13
+	diff == 2.05%		below 3.00%
+hold	price == $140.83
+	prev == $140.96
+	diff == -0.10%		below 3.00%
+hold	price == $143.09
+	prev == $140.83
+	diff == 1.60%		below 3.00%
+hold	price == $146.44
+	prev == $143.09
+	diff == 2.35%		below 3.00%
+hold	price == $144.73
+	prev == $146.44
+	diff == -1.17%		below 3.00%
+hold	price == $141.41
+	prev == $144.73
+	diff == -2.29%		below 3.00%
+hold	price == $138.08
+	prev == $141.41
+	diff == -2.36%		below 3.00%
+hold	price == $135.61
+	prev == $138.08
+	diff == -1.79%		below 3.00%
+hold	price == $132.70
+	prev == $135.61
+	diff == -2.15%		below 3.00%
+sell	price == $140.78
+	prev == $132.70
+	diff == 6.09%		above 3.00%
+hold	price == $142.88
+	prev == $140.78
+	diff == 1.49%		below 3.00%
+sell	price == $148.36
+	prev == $142.88
+	diff == 3.84%		above 3.00%
+hold	price == $150.28
+	prev == $148.36
+	diff == 1.29%		below 3.00%
+hold	price == $146.27
+	prev == $150.28
+	diff == -2.67%		below 3.00%
+buy	price == $141.34
+	prev == $146.27
+	diff == -3.37%		below 3.00%
+hold	price == $143.09
+	prev == $141.34
+	diff == 1.23%		below 3.00%
+hold	price == $145.20
+	prev == $143.09
+	diff == 1.48%		below 3.00%
+hold	price == $141.96
+	prev == $145.20
+	diff == -2.24%		below 3.00%
+hold	price == $141.66
+	prev == $141.96
+	diff == -0.21%		below 3.00%
+hold	price == $138.17
+	prev == $141.66
+	diff == -2.46%		below 3.00%
+hold	price == $141.16
+	prev == $138.17
+	diff == 2.16%		below 3.00%
+hold	price == $142.04
+	prev == $141.16
+	diff == 0.63%		below 3.00%
+buy	price == $137.39
+	prev == $142.04
+	diff == -3.27%		below 3.00%
+hold	price == $137.22
+	prev == $137.39
+	diff == -0.12%		below 3.00%
+buy	price == $131.92
+	prev == $137.22
+	diff == -3.87%		below 3.00%
+hold	price == $131.74
+	prev == $131.92
+	diff == -0.13%		below 3.00%
+hold	price == $129.98
+	prev == $131.74
+	diff == -1.34%		below 3.00%
+hold	price == $128.54
+	prev == $129.98
+	diff == -1.10%		below 3.00%
+hold	price == $125.52
+	prev == $128.54
+	diff == -2.35%		below 3.00%
+hold	price == $123.43
+	prev == $125.52
+	diff == -1.67%		below 3.00%
+hold	price == $121.19
+	prev == $123.43
+	diff == -1.81%		below 3.00%
+sell	price == $125.53
+	prev == $121.19
+	diff == 3.58%		above 3.00%
+sell	price == $132.12
+	prev == $125.53
+	diff == 5.25%		above 3.00%
+sell	price == $138.66
+	prev == $132.12
+	diff == 4.95%		above 3.00%
+hold	price == $135.95
+	prev == $138.66
+	diff == -1.95%		below 3.00%
+hold	price == $139.81
+	prev == $135.95
+	diff == 2.84%		below 3.00%
+buy	price == $133.34
+	prev == $139.81
+	diff == -4.62%		below 3.00%
+hold	price == $133.24
+	prev == $133.34
+	diff == -0.08%		below 3.00%
+sell	price == $138.46
+	prev == $133.24
+	diff == 3.91%		above 3.00%
+buy	price == $132.21
+	prev == $138.46
+	diff == -4.51%		below 3.00%
+hold	price == $132.26
+	prev == $132.21
+	diff == 0.04%		below 3.00%
+hold	price == $135.08
+	prev == $132.26
+	diff == 2.13%		below 3.00%
+hold	price == $135.54
+	prev == $135.08
+	diff == 0.33%		below 3.00%
+hold	price == $135.25
+	prev == $135.54
+	diff == -0.21%		below 3.00%
+hold	price == $133.94
+	prev == $135.25
+	diff == -0.97%		below 3.00%
+hold	price == $136.30
+	prev == $133.94
+	diff == 1.76%		below 3.00%
+buy	price == $132.04
+	prev == $136.30
+	diff == -3.12%		below 3.00%
+hold	price == $130.86
+	prev == $132.04
+	diff == -0.90%		below 3.00%
+hold	price == $127.25
+	prev == $130.86
+	diff == -2.76%		below 3.00%
+hold	price == $127.70
+	prev == $127.25
+	diff == 0.36%		below 3.00%
+buy	price == $121.02
+	prev == $127.70
+	diff == -5.23%		below 3.00%
+sell	price == $125.95
+	prev == $121.02
+	diff == 4.07%		above 3.00%
+hold	price == $126.03
+	prev == $125.95
+	diff == 0.07%		below 3.00%
+buy	price == $121.74
+	prev == $126.03
+	diff == -3.41%		below 3.00%
+hold	price == $122.11
+	prev == $121.74
+	diff == 0.31%		below 3.00%
+hold	price == $119.34
+	prev == $122.11
+	diff == -2.27%		below 3.00%
+buy	price == $113.40
+	prev == $119.34
+	diff == -4.98%		below 3.00%
+hold	price == $115.77
+	prev == $113.40
+	diff == 2.09%		below 3.00%
+buy	price == $110.99
+	prev == $115.77
+	diff == -4.13%		below 3.00%
+buy	price == $103.52
+	prev == $110.99
+	diff == -6.73%		below 3.00%
+sell	price == $108.42
+	prev == $103.52
+	diff == 4.74%		above 3.00%
+hold	price == $108.45
+	prev == $108.42
+	diff == 0.03%		below 3.00%
+buy	price == $103.93
+	prev == $108.45
+	diff == -4.17%		below 3.00%
+sell	price == $113.45
+	prev == $103.93
+	diff == 9.16%		above 3.00%
+hold	price == $114.85
+	prev == $113.45
+	diff == 1.24%		below 3.00%
+hold	price == $113.47
+	prev == $114.85
+	diff == -1.20%		below 3.00%
+hold	price == $112.62
+	prev == $113.47
+	diff == -0.75%		below 3.00%
+hold	price == $114.96
+	prev == $112.62
+	diff == 2.07%		below 3.00%
+buy	price == $111.09
+	prev == $114.96
+	diff == -3.36%		below 3.00%
+hold	price == $109.73
+	prev == $111.09
+	diff == -1.23%		below 3.00%
+sell	price == $115.47
+	prev == $109.73
+	diff == 5.23%		above 3.00%
+sell	price == $122.36
+	prev == $115.47
+	diff == 5.97%		above 3.00%
+hold	price == $123.33
+	prev == $122.36
+	diff == 0.79%		below 3.00%
+sell	price == $127.84
+	prev == $123.33
+	diff == 3.66%		above 3.00%
+hold	price == $128.30
+	prev == $127.84
+	diff == 0.36%		below 3.00%
+buy	price == $124.03
+	prev == $128.30
+	diff == -3.33%		below 3.00%
+hold	price == $121.21
+	prev == $124.03
+	diff == -2.27%		below 3.00%
+hold	price == $123.02
+	prev == $121.21
+	diff == 1.50%		below 3.00%
+hold	price == $121.24
+	prev == $123.02
+	diff == -1.45%		below 3.00%
+sell	price == $127.16
+	prev == $121.24
+	diff == 4.88%		above 3.00%
+sell	price == $133.06
+	prev == $127.16
+	diff == 4.64%		above 3.00%
+hold	price == $135.59
+	prev == $133.06
+	diff == 1.90%		below 3.00%
+hold	price == $135.03
+	prev == $135.59
+	diff == -0.41%		below 3.00%
+buy	price == $128.96
+	prev == $135.03
+	diff == -4.50%		below 3.00%
+buy	price == $121.03
+	prev == $128.96
+	diff == -6.15%		below 3.00%
+hold	price == $119.24
+	prev == $121.03
+	diff == -1.48%		below 3.00%
+hold	price == $120.82
+	prev == $119.24
+	diff == 1.33%		below 3.00%
+hold	price == $121.87
+	prev == $120.82
+	diff == 0.86%		below 3.00%
+hold	price == $125.13
+	prev == $121.87
+	diff == 2.68%		below 3.00%
+hold	price == $123.82
+	prev == $125.13
+	diff == -1.05%		below 3.00%
+hold	price == $122.28
+	prev == $123.82
+	diff == -1.24%		below 3.00%
+hold	price == $119.61
+	prev == $122.28
+	diff == -2.18%		below 3.00%
+buy	price == $114.62
+	prev == $119.61
+	diff == -4.18%		below 3.00%
+buy	price == $109.83
+	prev == $114.62
+	diff == -4.18%		below 3.00%
+hold	price == $109.25
+	prev == $109.83
+	diff == -0.53%		below 3.00%
+buy	price == $104.72
+	prev == $109.25
+	diff == -4.14%		below 3.00%
+hold	price == $103.44
+	prev == $104.72
+	diff == -1.23%		below 3.00%
+hold	price == $103.06
+	prev == $103.44
+	diff == -0.37%		below 3.00%
+hold	price == $103.23
+	prev == $103.06
+	diff == 0.16%		below 3.00%
+buy	price == $99.67
+	prev == $103.23
+	diff == -3.45%		below 3.00%
+hold	price == $98.15
+	prev == $99.67
+	diff == -1.53%		below 3.00%
+sell	price == $103.73
+	prev == $98.15
+	diff == 5.69%		above 3.00%
+buy	price == $98.99
+	prev == $103.73
+	diff == -4.57%		below 3.00%
+hold	price == $99.55
+	prev == $98.99
+	diff == 0.57%		below 3.00%
+hold	price == $100.15
+	prev == $99.55
+	diff == 0.59%		below 3.00%
+buy	price == $95.88
+	prev == $100.15
+	diff == -4.26%		below 3.00%
+hold	price == $95.79
+	prev == $95.88
+	diff == -0.09%		below 3.00%
+buy	price == $91.82
+	prev == $95.79
+	diff == -4.15%		below 3.00%
+sell	price == $98.08
+	prev == $91.82
+	diff == 6.82%		above 3.00%
+buy	price == $94.74
+	prev == $98.08
+	diff == -3.41%		below 3.00%
+hold	price == $95.12
+	prev == $94.74
+	diff == 0.40%		below 3.00%
+hold	price == $94.24
+	prev == $95.12
+	diff == -0.92%		below 3.00%
+buy	price == $85.59
+	prev == $94.24
+	diff == -9.19%		below 3.00%
+hold	price == $84.62
+	prev == $85.59
+	diff == -1.13%		below 3.00%
+hold	price == $82.56
+	prev == $84.62
+	diff == -2.43%		below 3.00%
+sell	price == $86.70
+	prev == $82.56
+	diff == 5.01%		above 3.00%
+sell	price == $92.37
+	prev == $86.70
+	diff == 6.54%		above 3.00%
+sell	price == $96.93
+	prev == $92.37
+	diff == 4.94%		above 3.00%
+buy	price == $93.83
+	prev == $96.93
+	diff == -3.20%		below 3.00%
+hold	price == $91.41
+	prev == $93.83
+	diff == -2.58%		below 3.00%
+hold	price == $88.75
+	prev == $91.41
+	diff == -2.90%		below 3.00%
+buy	price == $84.76
+	prev == $88.75
+	diff == -4.50%		below 3.00%
+sell	price == $91.54
+	prev == $84.76
+	diff == 8.00%		above 3.00%
+sell	price == $96.27
+	prev == $91.54
+	diff == 5.17%		above 3.00%
+buy	price == $91.49
+	prev == $96.27
+	diff == -4.97%		below 3.00%
+buy	price == $85.65
+	prev == $91.49
+	diff == -6.39%		below 3.00%
+sell	price == $90.11
+	prev == $85.65
+	diff == 5.22%		above 3.00%
+buy	price == $83.76
+	prev == $90.11
+	diff == -7.05%		below 3.00%
+buy	price == $79.30
+	prev == $83.76
+	diff == -5.32%		below 3.00%
+hold	price == $78.24
+	prev == $79.30
+	diff == -1.34%		below 3.00%
+buy	price == $73.61
+	prev == $78.24
+	diff == -5.92%		below 3.00%
+buy	price == $70.25
+	prev == $73.61
+	diff == -4.55%		below 3.00%
+buy	price == $67.28
+	prev == $70.25
+	diff == -4.24%		below 3.00%
+sell	price == $71.61
+	prev == $67.28
+	diff == 6.43%		above 3.00%
+sell	price == $76.73
+	prev == $71.61
+	diff == 7.15%		above 3.00%
+sell	price == $79.09
+	prev == $76.73
+	diff == 3.08%		above 3.00%
+hold	price == $78.60
+	prev == $79.09
+	diff == -0.62%		below 3.00%
+buy	price == $75.27
+	prev == $78.60
+	diff == -4.25%		below 3.00%
+sell	price == $82.16
+	prev == $75.27
+	diff == 9.16%		above 3.00%
+hold	price == $83.16
+	prev == $82.16
+	diff == 1.22%		below 3.00%
+hold	price == $85.28
+	prev == $83.16
+	diff == 2.55%		below 3.00%
+buy	price == $79.85
+	prev == $85.28
+	diff == -6.37%		below 3.00%
+hold	price == $79.23
+	prev == $79.85
+	diff == -0.78%		below 3.00%
+hold	price == $80.76
+	prev == $79.23
+	diff == 1.93%		below 3.00%
+buy	price == $77.23
+	prev == $80.76
+	diff == -4.36%		below 3.00%
+hold	price == $79.07
+	prev == $77.23
+	diff == 2.37%		below 3.00%
+sell	price == $86.93
+	prev == $79.07
+	diff == 9.95%		above 3.00%
+hold	price == $87.09
+	prev == $86.93
+	diff == 0.17%		below 3.00%
+sell	price == $95.89
+	prev == $87.09
+	diff == 10.12%		above 3.00%
+hold	price == $93.88
+	prev == $95.89
+	diff == -2.10%		below 3.00%
+buy	price == $90.18
+	prev == $93.88
+	diff == -3.95%		below 3.00%
+hold	price == $90.60
+	prev == $90.18
+	diff == 0.46%		below 3.00%
+hold	price == $89.88
+	prev == $90.60
+	diff == -0.79%		below 3.00%
+hold	price == $90.68
+	prev == $89.88
+	diff == 0.90%		below 3.00%
+sell	price == $100.99
+	prev == $90.68
+	diff == 11.37%		above 3.00%
+buy	price == $97.55
+	prev == $100.99
+	diff == -3.41%		below 3.00%
+hold	price == $99.25
+	prev == $97.55
+	diff == 1.75%		below 3.00%
+sell	price == $102.79
+	prev == $99.25
+	diff == 3.57%		above 3.00%
+sell	price == $106.70
+	prev == $102.79
+	diff == 3.80%		above 3.00%
+buy	price == $98.85
+	prev == $106.70
+	diff == -7.36%		below 3.00%
+hold	price == $98.35
+	prev == $98.85
+	diff == -0.50%		below 3.00%
+hold	price == $99.09
+	prev == $98.35
+	diff == 0.75%		below 3.00%
+sell	price == $106.64
+	prev == $99.09
+	diff == 7.62%		above 3.00%
+hold	price == $109.61
+	prev == $106.64
+	diff == 2.78%		below 3.00%
+hold	price == $110.15
+	prev == $109.61
+	diff == 0.49%		below 3.00%
+hold	price == $106.93
+	prev == $110.15
+	diff == -2.92%		below 3.00%
+hold	price == $109.02
+	prev == $106.93
+	diff == 1.95%		below 3.00%
+hold	price == $108.00
+	prev == $109.02
+	diff == -0.93%		below 3.00%
+hold	price == $106.43
+	prev == $108.00
+	diff == -1.46%		below 3.00%
+hold	price == $107.33
+	prev == $106.43
+	diff == 0.84%		below 3.00%
+buy	price == $101.82
+	prev == $107.33
+	diff == -5.14%		below 3.00%
+hold	price == $101.96
+	prev == $101.82
+	diff == 0.15%		below 3.00%
+sell	price == $106.98
+	prev == $101.96
+	diff == 4.91%		above 3.00%
+sell	price == $112.70
+	prev == $106.98
+	diff == 5.35%		above 3.00%
+hold	price == $110.72
+	prev == $112.70
+	diff == -1.76%		below 3.00%
+sell	price == $117.98
+	prev == $110.72
+	diff == 6.56%		above 3.00%
+hold	price == $115.25
+	prev == $117.98
+	diff == -2.31%		below 3.00%
+hold	price == $116.11
+	prev == $115.25
+	diff == 0.74%		below 3.00%
+hold	price == $115.20
+	prev == $116.11
+	diff == -0.78%		below 3.00%
+buy	price == $106.79
+	prev == $115.20
+	diff == -7.30%		below 3.00%
+buy	price == $103.42
+	prev == $106.79
+	diff == -3.16%		below 3.00%
+sell	price == $107.66
+	prev == $103.42
+	diff == 4.10%		above 3.00%
+hold	price == $109.75
+	prev == $107.66
+	diff == 1.94%		below 3.00%
+sell	price == $114.68
+	prev == $109.75
+	diff == 4.49%		above 3.00%
+hold	price == $116.23
+	prev == $114.68
+	diff == 1.35%		below 3.00%
+hold	price == $115.89
+	prev == $116.23
+	diff == -0.29%		below 3.00%
+hold	price == $113.43
+	prev == $115.89
+	diff == -2.12%		below 3.00%
+hold	price == $116.25
+	prev == $113.43
+	diff == 2.48%		below 3.00%
+sell	price == $123.56
+	prev == $116.25
+	diff == 6.29%		above 3.00%
+buy	price == $114.10
+	prev == $123.56
+	diff == -7.66%		below 3.00%
+hold	price == $116.69
+	prev == $114.10
+	diff == 2.27%		below 3.00%
+hold	price == $118.20
+	prev == $116.69
+	diff == 1.29%		below 3.00%
+sell	price == $126.20
+	prev == $118.20
+	diff == 6.77%		above 3.00%
+hold	price == $128.81
+	prev == $126.20
+	diff == 2.07%		below 3.00%
+hold	price == $132.35
+	prev == $128.81
+	diff == 2.74%		below 3.00%
+buy	price == $124.32
+	prev == $132.35
+	diff == -6.06%		below 3.00%
+buy	price == $119.39
+	prev == $124.32
+	diff == -3.97%		below 3.00%
+buy	price == $114.77
+	prev == $119.39
+	diff == -3.87%		below 3.00%
+hold	price == $116.15
+	prev == $114.77
+	diff == 1.20%		below 3.00%
+sell	price == $120.98
+	prev == $116.15
+	diff == 4.16%		above 3.00%
+sell	price == $126.37
+	prev == $120.98
+	diff == 4.45%		above 3.00%
+sell	price == $131.30
+	prev == $126.37
+	diff == 3.90%		above 3.00%
+sell	price == $137.07
+	prev == $131.30
+	diff == 4.39%		above 3.00%
+sell	price == $143.30
+	prev == $137.07
+	diff == 4.55%		above 3.00%
+hold	price == $142.68
+	prev == $143.30
+	diff == -0.43%		below 3.00%
+hold	price == $143.70
+	prev == $142.68
+	diff == 0.72%		below 3.00%
+hold	price == $144.01
+	prev == $143.70
+	diff == 0.21%		below 3.00%
+buy	price == $138.39
+	prev == $144.01
+	diff == -3.90%		below 3.00%
+hold	price == $139.25
+	prev == $138.39
+	diff == 0.62%		below 3.00%
+hold	price == $137.03
+	prev == $139.25
+	diff == -1.59%		below 3.00%
+sell	price == $143.66
+	prev == $137.03
+	diff == 4.84%		above 3.00%
+hold	price == $142.71
+	prev == $143.66
+	diff == -0.66%		below 3.00%
+hold	price == $142.64
+	prev == $142.71
+	diff == -0.05%		below 3.00%
+hold	price == $140.63
+	prev == $142.64
+	diff == -1.41%		below 3.00%
+hold	price == $141.27
+	prev == $140.63
+	diff == 0.46%		below 3.00%
+sell	price == $148.81
+	prev == $141.27
+	diff == 5.33%		above 3.00%
+sell	price == $158.86
+	prev == $148.81
+	diff == 6.75%		above 3.00%
+hold	price == $162.21
+	prev == $158.86
+	diff == 2.11%		below 3.00%
+hold	price == $159.85
+	prev == $162.21
+	diff == -1.46%		below 3.00%
+hold	price == $157.82
+	prev == $159.85
+	diff == -1.27%		below 3.00%
+sell	price == $162.77
+	prev == $157.82
+	diff == 3.14%		above 3.00%
+hold	price == $160.97
+	prev == $162.77
+	diff == -1.11%		below 3.00%
+hold	price == $156.23
+	prev == $160.97
+	diff == -2.95%		below 3.00%
+hold	price == $152.90
+	prev == $156.23
+	diff == -2.13%		below 3.00%
+hold	price == $150.41
+	prev == $152.90
+	diff == -1.63%		below 3.00%
+hold	price == $154.47
+	prev == $150.41
+	diff == 2.70%		below 3.00%
+sell	price == $159.93
+	prev == $154.47
+	diff == 3.53%		above 3.00%
+hold	price == $163.90
+	prev == $159.93
+	diff == 2.48%		below 3.00%
+hold	price == $164.32
+	prev == $163.90
+	diff == 0.25%		below 3.00%
+hold	price == $160.86
+	prev == $164.32
+	diff == -2.11%		below 3.00%
+hold	price == $163.46
+	prev == $160.86
+	diff == 1.62%		below 3.00%
+hold	price == $159.00
+	prev == $163.46
+	diff == -2.73%		below 3.00%
+hold	price == $159.34
+	prev == $159.00
+	diff == 0.21%		below 3.00%
+hold	price == $157.09
+	prev == $159.34
+	diff == -1.41%		below 3.00%
+hold	price == $155.22
+	prev == $157.09
+	diff == -1.19%		below 3.00%
+hold	price == $151.10
+	prev == $155.22
+	diff == -2.65%		below 3.00%
+hold	price == $154.39
+	prev == $151.10
+	diff == 2.18%		below 3.00%
+hold	price == $154.53
+	prev == $154.39
+	diff == 0.09%		below 3.00%
+hold	price == $151.10
+	prev == $154.53
+	diff == -2.22%		below 3.00%
+hold	price == $153.91
+	prev == $151.10
+	diff == 1.86%		below 3.00%
+hold	price == $154.80
+	prev == $153.91
+	diff == 0.58%		below 3.00%
+hold	price == $158.31
+	prev == $154.80
+	diff == 2.27%		below 3.00%
+hold	price == $159.48
+	prev == $158.31
+	diff == 0.74%		below 3.00%
+hold	price == $161.75
+	prev == $159.48
+	diff == 1.42%		below 3.00%
+hold	price == $166.38
+	prev == $161.75
+	diff == 2.87%		below 3.00%
+hold	price == $168.04
+	prev == $166.38
+	diff == 1.00%		below 3.00%
+hold	price == $165.91
+	prev == $168.04
+	diff == -1.27%		below 3.00%
+hold	price == $167.17
+	prev == $165.91
+	diff == 0.76%		below 3.00%
+hold	price == $169.50
+	prev == $167.17
+	diff == 1.39%		below 3.00%
+hold	price == $174.02
+	prev == $169.50
+	diff == 2.67%		below 3.00%
+hold	price == $174.44
+	prev == $174.02
+	diff == 0.24%		below 3.00%
+hold	price == $178.86
+	prev == $174.44
+	diff == 2.53%		below 3.00%
+buy	price == $172.78
+	prev == $178.86
+	diff == -3.40%		below 3.00%
+hold	price == $175.64
+	prev == $172.78
+	diff == 1.65%		below 3.00%
+hold	price == $179.38
+	prev == $175.64
+	diff == 2.13%		below 3.00%
+hold	price == $182.21
+	prev == $179.38
+	diff == 1.58%		below 3.00%
+hold	price == $185.94
+	prev == $182.21
+	diff == 2.04%		below 3.00%
+hold	price == $187.32
+	prev == $185.94
+	diff == 0.75%		below 3.00%
+hold	price == $187.96
+	prev == $187.32
+	diff == 0.34%		below 3.00%
+hold	price == $185.03
+	prev == $187.96
+	diff == -1.56%		below 3.00%
+hold	price == $189.09
+	prev == $185.03
+	diff == 2.19%		below 3.00%
+hold	price == $192.20
+	prev == $189.09
+	diff == 1.65%		below 3.00%
+hold	price == $192.02
+	prev == $192.20
+	diff == -0.10%		below 3.00%
+hold	price == $188.83
+	prev == $192.02
+	diff == -1.66%		below 3.00%
+hold	price == $190.17
+	prev == $188.83
+	diff == 0.71%		below 3.00%
+hold	price == $191.55
+	prev == $190.17
+	diff == 0.73%		below 3.00%
+hold	price == $188.86
+	prev == $191.55
+	diff == -1.41%		below 3.00%
+hold	price == $186.85
+	prev == $188.86
+	diff == -1.06%		below 3.00%
+hold	price == $191.66
+	prev == $186.85
+	diff == 2.57%		below 3.00%
+hold	price == $194.03
+	prev == $191.66
+	diff == 1.24%		below 3.00%
+hold	price == $194.02
+	prev == $194.03
+	diff == -0.01%		below 3.00%
+hold	price == $192.37
+	prev == $194.02
+	diff == -0.85%		below 3.00%
+hold	price == $188.11
+	prev == $192.37
+	diff == -2.22%		below 3.00%
+sell	price == $196.21
+	prev == $188.11
+	diff == 4.31%		above 3.00%
+hold	price == $194.07
+	prev == $196.21
+	diff == -1.09%		below 3.00%
+sell	price == $200.54
+	prev == $194.07
+	diff == 3.33%		above 3.00%
+buy	price == $191.68
+	prev == $200.54
+	diff == -4.42%		below 3.00%
+hold	price == $192.53
+	prev == $191.68
+	diff == 0.45%		below 3.00%
+hold	price == $191.76
+	prev == $192.53
+	diff == -0.40%		below 3.00%
+hold	price == $193.29
+	prev == $191.76
+	diff == 0.80%		below 3.00%
+hold	price == $189.30
+	prev == $193.29
+	diff == -2.06%		below 3.00%
+hold	price == $187.98
+	prev == $189.30
+	diff == -0.70%		below 3.00%
+hold	price == $187.80
+	prev == $187.98
+	diff == -0.09%		below 3.00%
+hold	price == $190.64
+	prev == $187.80
+	diff == 1.51%		below 3.00%
+hold	price == $194.08
+	prev == $190.64
+	diff == 1.80%		below 3.00%
+hold	price == $197.31
+	prev == $194.08
+	diff == 1.66%		below 3.00%
+buy	price == $189.70
+	prev == $197.31
+	diff == -3.86%		below 3.00%
+hold	price == $190.55
+	prev == $189.70
+	diff == 0.45%		below 3.00%
+hold	price == $192.54
+	prev == $190.55
+	diff == 1.05%		below 3.00%
+hold	price == $195.94
+	prev == $192.54
+	diff == 1.77%		below 3.00%
+hold	price == $194.97
+	prev == $195.94
+	diff == -0.50%		below 3.00%
+hold	price == $189.82
+	prev == $194.97
+	diff == -2.64%		below 3.00%
+hold	price == $189.08
+	prev == $189.82
+	diff == -0.39%		below 3.00%
+hold	price == $185.14
+	prev == $189.08
+	diff == -2.08%		below 3.00%
+hold	price == $179.80
+	prev == $185.14
+	diff == -2.88%		below 3.00%
+hold	price == $183.21
+	prev == $179.80
+	diff == 1.90%		below 3.00%
+hold	price == $180.62
+	prev == $183.21
+	diff == -1.42%		below 3.00%
+hold	price == $179.38
+	prev == $180.62
+	diff == -0.68%		below 3.00%
+hold	price == $177.75
+	prev == $179.38
+	diff == -0.91%		below 3.00%
+hold	price == $180.01
+	prev == $177.75
+	diff == 1.27%		below 3.00%
+hold	price == $179.08
+	prev == $180.01
+	diff == -0.52%		below 3.00%
+hold	price == $179.76
+	prev == $179.08
+	diff == 0.38%		below 3.00%
+hold	price == $180.25
+	prev == $179.76
+	diff == 0.27%		below 3.00%
+hold	price == $178.34
+	prev == $180.25
+	diff == -1.06%		below 3.00%
+hold	price == $180.48
+	prev == $178.34
+	diff == 1.20%		below 3.00%
+hold	price == $182.00
+	prev == $180.48
+	diff == 0.84%		below 3.00%
+hold	price == $179.65
+	prev == $182.00
+	diff == -1.29%		below 3.00%
+hold	price == $179.96
+	prev == $179.65
+	diff == 0.17%		below 3.00%
+hold	price == $174.61
+	prev == $179.96
+	diff == -2.97%		below 3.00%
+buy	price == $166.63
+	prev == $174.61
+	diff == -4.57%		below 3.00%
+hold	price == $165.53
+	prev == $166.63
+	diff == -0.66%		below 3.00%
