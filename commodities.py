@@ -116,16 +116,17 @@ def func(principal, start, end, low, high, sample_rate, trading_threshold, comma
         f.write('')
         f.close()
     with open (log, 'a') as f:
+        commodity_price_prev = intraday[0]
         for s in range(1, len(intraday), sample_rate):
             commodity_price = intraday[s]
-            commodity_price_prev = intraday[s-sample_rate]
             if commodity_price_prev:
                 difference = ( commodity_price - commodity_price_prev ) / commodity_price_prev
             else:
                 difference = 0
 
             trade = ''
-            if abs(difference) > trading_threshold:    
+            if abs(difference) > trading_threshold:
+                commodity_price_prev = commodity_price
                 if difference < 0:
                     trade = 'buy'
                 elif difference > 0:
@@ -166,6 +167,6 @@ if __name__ == '__main__':
     end = args.end if args.end else 10000
     low = args.low if args.low else 100
     high = args.high if args.high else 200
-    sample_rate = args.sample_rate if args.sample_rate else 60
+    sample_rate = args.sample_rate if args.sample_rate else 1
     trading_threshold = args.trading_threshold if args.trading_threshold else 0.03
     func(principal, start, end, low, high, sample_rate, trading_threshold, args.verbose)
