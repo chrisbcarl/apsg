@@ -47,7 +47,7 @@ args = parser.parse_args()
 
 
 def generate_stock_data(start, end, low, high, console_log=False):
-    output = args.output if args.output else '/data/data' + '-'.join([str(start), str(end), str(low), str(high)]) + '.dat'
+    output = args.output if args.output else 'data/data' + '-'.join([str(start), str(end), str(low), str(high)]) + '.dat'
     with open(output, 'w') as f:
         total = end - start
         console_threshold = 1000
